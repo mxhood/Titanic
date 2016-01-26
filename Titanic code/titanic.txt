@@ -1,0 +1,2208 @@
+Mr Anthony Abbing (victim); age=42.0; class=3rd Class; job=Blacksmith
+Mr Ernest Owen Abbott (victim); age=21.0; class=Victualling; job=Lounge Pantry Steward
+Mr Eugene Joseph Abbott (victim); age=14.0; class=3rd Class; job=Scholar
+Mrs Rhoda Mary 'Rosa' Abbott (survivor); age=39.0; class=3rd Class
+Mr Rossmore Edward Abbott (victim); age=16.0; class=3rd Class; job=Jeweller
+Miss Karen Marie Abelseth (survivor); age=16.0; class=3rd Class
+Mr Olaus Jrgensen Abelseth (survivor); age=25.0; class=3rd Class; job=Farmer
+Mrs  Abelson (survivor); age=28.0; class=2nd Class
+Mr Samuel Abelson (victim); age=30.0; class=2nd Class
+Mr Abraham August Johannes Abrahamsson (survivor); age=20.0; class=3rd Class
+Mrs Mary Sophie Halaut Abrahim (survivor); age=18.0; class=3rd Class
+Mr William Abrams (victim); age=33.0; class=Engine; job=Fireman
+Mr John Adams (victim); age=26.0; class=3rd Class
+Mr R. Adams (victim); age=26.0; class=Engine; job=Fireman
+Mr Percy Snowden Ahier (victim); age=20.0; class=Victualling; job=Saloon Steward
+Mrs Johanna Persdotter Ahlin (victim); age=40.0; class=3rd Class
+Mr Albert Akerman (victim); age=28.0; class=Victualling; job=Steward
+Mr Joseph Francis Akerman (victim); age=35.0; class=Victualling; job=Assistant Pantryman Steward
+Master Frank Philip Aks (survivor); age=0.833333333333; class=3rd Class
+Mrs Leah Aks (survivor); age=18.0; class=3rd Class
+Mr Nassef Cassem Albimona (survivor); age=26.0; class=3rd Class
+Mr Charles Augustus Aldworth (victim); age=30.0; class=2nd Class; group=Servant; job=Chauffeur
+Mr William Alexander (victim); age=23.0; class=3rd Class; job=General Labourer
+Mr Ilmari Rudolf Alhomki (victim); age=19.0; class=3rd Class; job=General Labourer
+Mr Ahmed Ali (victim); age=24.0; class=3rd Class; job=General Labourer
+Mr William Ali (victim); age=25.0; class=3rd Class; job=General Labourer
+Mr Robert Spencer Allan (victim); age=36.0; class=Victualling; job=Bed Room Steward
+Sig. Battista Antonio Allaria (victim); age=22.0; class=A la Carte; job=Assistant Waiter
+Miss Elisabeth Walton Allen (survivor); age=29.0; class=1st Class
+Mr Ernest Frederick Allen (survivor); age=24.0; class=Engine; job=Trimmer
+Mr Frederick Allen (victim); age=17.0; class=Victualling; job=Lift Steward
+Mr George Allen (victim); age=26.0; class=Victualling; job=Scullion
+Mr Henry Allen (victim); age=32.0; class=Engine; job=Fireman
+Mr William Henry Allen (victim); age=35.0; class=3rd Class; job=Tool Maker
+Mrs Bessie Waldo Allison (victim); age=25.0; class=1st Class
+Miss Helen Loraine Allison (victim); age=2.0; class=1st Class
+Mr Hudson Joshua Creighton Allison (victim); age=30.0; class=1st Class; job=Businessman
+Master Hudson Trevor Allison (survivor); age=0.916666666667; class=1st Class
+Mr Alfred Samuel Allsop (victim); age=34.0; class=Engine; job=Electrician
+Mr Frank Richard Allsop (victim); age=41.0; class=Victualling; job=Saloon Steward
+Mr Owen George Allum (victim); age=15.0; class=3rd Class; job=Gardener
+Mr Albert Karvin Andersen (victim); age=33.0; class=3rd Class; job=Engineer
+Miss Carla Christine Nielsine Andersen-jensen (survivor); age=19.0; class=3rd Class
+Mr Harry Anderson (survivor); age=47.0; class=1st Class; job=Stockbroker
+Mr James Anderson (survivor); age=40.0; class=Deck; job=Able Seaman
+Mr Walter J. Anderson (victim); age=48.0; class=Victualling; job=Bed Room Steward
+Mrs Alfrida Konstantia Brogren Andersson (victim); age=39.0; class=3rd Class
+Mr Anders Johan Andersson (victim); age=39.0; class=3rd Class; job=General Labourer
+Miss Ebba Iris Alfrida Andersson (victim); age=6.0; class=3rd Class
+Miss Ellis Anna Maria Andersson (victim); age=2.0; class=3rd Class
+Miss Erna Alexandra Andersson (survivor); age=17.0; class=3rd Class
+Miss Ida Augusta Margareta Andersson (victim); age=38.0; class=3rd Class
+Miss Ingeborg Constanzia Andersson (victim); age=9.0; class=3rd Class
+Mr Johan Samuel Andersson (victim); age=26.0; class=3rd Class; job=General Labourer
+Miss Sigrid Elisabeth Andersson (victim); age=11.0; class=3rd Class
+Master Sigvard Harald Elias Andersson (victim); age=4.0; class=3rd Class
+Mr Paul Edvin Andreasson (victim); age=20.0; class=3rd Class; job=General Labourer
+Mr Edgar Samuel Andrew (victim); age=17.0; class=2nd Class
+Mr Frank Thomas Andrew (victim); age=25.0; class=2nd Class; job=Miner
+Mr Charles Edward Andrews (survivor); age=19.0; class=Victualling; job=Assistant Saloon Steward
+Miss Kornelia Theodosia Andrews (survivor); age=62.0; class=1st Class
+Mr Thomas Andrews (victim); age=39.0; class=1st Class; group=H&W Guarantee Group; job=Shipbuilder
+Mr Minko Angheloff (victim); age=26.0; class=3rd Class; job=General Labourer
+Mrs Florence "Mary" Agnes Angle (survivor); age=36.0; class=2nd Class
+Mr William A. Angle (victim); age=32.0; class=2nd Class
+Mrs Charlotte Appleton (survivor); age=53.0; class=1st Class
+Mr Ernest Edward Archer (survivor); age=36.0; class=Deck; job=Able Seaman
+Mr Josef Arnold-franchi (victim); age=25.0; class=3rd Class; job=General Labourer
+Mrs Josefine Arnold-franchi (victim); age=18.0; class=3rd Class
+Mr Ernst Axel Algot Aronsson (victim); age=24.0; class=3rd Class; job=General Labourer
+Mr Ramon Artagaveytia (victim); age=71.0; class=1st Class; job=Businessman
+Mr John Ashby (victim); age=57.0; class=2nd Class
+Mr Austin Aloysius Ashcroft (victim); age=26.0; class=Victualling; job=Clerk
+Mr Henry Wellesley Ashe (victim); age=32.0; class=Victualling; job=Glory Hole Steward
+Mr Adola Asim (victim); age=35.0; class=3rd Class; job=General Labourer
+Mr Georges Aspeslagh (victim); age=26.0; class=A la Carte; job=Assistant Plateman
+Master Carl Edgar Asplund (victim); age=5.0; class=3rd Class
+Mr Carl Oscar Vilhelm Gustafsson Asplund (victim); age=40.0; class=3rd Class; job=General Labourer
+Master Clarence Gustaf Hugo Asplund (victim); age=9.0; class=3rd Class
+Master Edvin Rojj Felix Asplund (survivor); age=3.0; class=3rd Class
+Master Filip Oscar Asplund (victim); age=13.0; class=3rd Class
+Mr Johan Charles Asplund (survivor); age=23.0; class=3rd Class
+Miss Lillian Gertrud Asplund (survivor); age=5.0; class=3rd Class
+Mrs Selma Augusta Emilia Asplund (survivor); age=38.0; class=3rd Class
+Mrs Mariana Assaf (survivor); age=45.0; class=3rd Class
+Mr Ali Assam (victim); age=23.0; class=3rd Class; job=General Labourer
+Colonel John Jacob Astor (victim); age=47.0; class=1st Class; job=Property Developer / Real Estate
+Mrs Madeleine Talmage Astor (survivor); age=18.0; class=1st Class
+Mr Sleiman Attala (victim); age=27.0; class=3rd Class; job=Journalist
+Miss Malake Attalah (victim); age=17.0; class=3rd Class
+Mme. Lontine Pauline Aubart (survivor); age=24.0; class=1st Class; job=Singer
+Mr Albert Augustsson (victim); age=23.0; class=3rd Class; job=General Labourer
+Mr James Albert Avery (survivor); age=22.0; class=Engine; job=Trimmer
+Mr George Edwin Ayling (victim); age=22.0; class=Victualling; job=Assistant Vegetable Cook
+Miss Banoura Ayoub daher (survivor); age=15.0; class=3rd Class
+Mr Raffull Baccos (victim); age=20.0; class=3rd Class; job=Farm Labourer
+Mr Charles Frederick Back (victim); age=32.0; class=Victualling; job=Assistant Lounge Steward
+Mr Karl Alfred Backstrm (victim); age=32.0; class=3rd Class; job=General Labourer
+Mrs Maria Mathilda Backstrm (survivor); age=33.0; class=3rd Class
+Miss Eugenie Baclini (survivor); age=3.0; class=3rd Class
+Miss Helene Barbara Baclini (survivor); age=0.75; class=3rd Class
+Mrs Latifa Baclini (survivor); age=24.0; class=3rd Class
+Miss Marie Catherine Baclini (survivor); age=5.0; class=3rd Class
+Miss Emily Louisa Badman (survivor); age=18.0; class=3rd Class; job=Servant
+Mr Mohamed Badt (victim); age=40.0; class=3rd Class; job=Farmer
+Mr Allen Marden Baggott (survivor); age=28.0; class=Victualling; job=Saloon Steward
+Mr Edward Ernest Bagley (victim); age=31.0; class=Victualling; job=Saloon Steward
+Mr George Francis Bailey (victim); age=36.0; class=Victualling; job=Saloon Steward
+Mr George W. Bailey (victim); age=46.0; class=Engine; job=Fireman
+Mr Henry Joseph Bailey (survivor); age=43.0; class=Deck; job=Master-at-arms
+Mr Percy Bailey (victim); age=15.0; class=2nd Class; job=Butcher's Assistant
+Mr Charles Robert Bainbrigge (victim); age=23.0; class=2nd Class; job=Horse Trainer
+Mr Richard Baines (victim); age=24.0; class=Engine; job=Greaser
+Mr Cerin Balkic (victim); age=26.0; class=3rd Class; job=General Labourer
+Mrs Ada E. Ball (survivor); age=36.0; class=2nd Class
+Mr Percy Ball (survivor); age=19.0; class=Victualling; job=Plate Steward
+Sig. Ugo Banfi (victim); age=24.0; class=A la Carte; job=Waiter
+Mr Frederick James Banfield (victim); age=28.0; class=2nd Class; job=Miner
+Mr John Bannon (victim); age=32.0; class=Engine; job=Greaser
+Mrs Mara Banski (survivor); age=31.0; class=3rd Class
+Mrs Catherine David Barbara (victim); age=45.0; class=3rd Class; job=Housekeeper
+Miss Saiide Barbara (victim); age=18.0; class=3rd Class; job=Housekeeper
+Miss Ellen Mary Barber (survivor); age=26.0; class=1st Class; group=Servant; job=Personal Maid
+Mr Albert Vale Barker (victim); age=19.0; class=Victualling; job=Baker
+Mr Ernest T. Barker (victim); age=37.0; class=Victualling; job=Saloon Steward
+Mr Reginald Lomond Barker (victim); age=40.0; class=Victualling; job=Purser
+Mr Algernon Henry Barkworth (survivor); age=47.0; class=1st Class; job=Justice of the Peace
+Mr Charles Barlow (victim); age=30.0; class=Engine; job=Fireman
+Mr George Barlow (victim); age=36.0; class=Victualling; job=Bed Room Steward
+Mr Charles Barnes (victim); age=29.0; class=Engine; job=Fireman
+Mr Frederick Barnes (victim); age=37.0; class=Victualling; job=Baker
+Mr J. Barnes (victim); age=41.0; class=Engine; job=Fireman
+Mr Arthur Barratt (victim); age=15.0; class=Victualling; job=Bell Boy
+Mr Frederick Barrett (survivor); age=28.0; class=Engine; job=Leading Fireman
+Mr Frederick William Barrett (victim); age=33.0; class=Engine; job=Fireman
+Mr Arthur William Barringer (victim); age=33.0; class=Victualling; job=Saloon Steward
+Mr Harry Barrow (victim); age=35.0; class=Victualling; job=Butcher
+Mr William Barrows (victim); age=32.0; class=Victualling; job=Saloon Steward
+Miss Julia Barry (victim); age=26.0; class=3rd Class; job=Housekeeper
+Mr David John Barton (victim); age=22.0; class=3rd Class; job=General Labourer
+Mr Sidney John Barton (victim); age=25.0; class=Victualling; job=Steward
+Sig. Giovanni Basilico (victim); age=27.0; class=A la Carte; job=Waiter
+Fr Robert James Bateman (victim); age=51.0; class=2nd Class; job=Priest / Minister
+Mr John D. Baumann (victim); age=60.0; class=1st Class; job=Businessman
+Mr Harry Ross Baxter (victim); age=51.0; class=Victualling; job=Steward
+Mrs Hlne Baxter (survivor); age=50.0; class=1st Class
+Mr Quigg Edmond Baxter (victim); age=24.0; class=1st Class
+Mr Thomas Ferguson Baxter (victim); age=48.0; class=Victualling; job=Linen Steward
+Mrs Albina Bazzani (survivor); age=36.0; class=1st Class; group=Servant; job=Personal Maid
+Sig. Narciso Bazzi (victim); age=33.0; class=A la Carte; job=Waiter
+Mr Edward Beane (survivor); age=32.0; class=2nd Class
+Mrs Ethel Beane (survivor); age=19.0; class=2nd Class
+Mr Joseph Beattie (victim); age=35.0; class=Engine; job=Greaser
+Mr Thomson Beattie (victim); age=36.0; class=1st Class; job=Landowner
+Mr George William Beauchamp (survivor); age=24.0; class=Engine; job=Fireman
+Mr Henry James Beauchamp (victim); age=28.0; class=2nd Class
+Mr William Thomas Beavan (victim); age=18.0; class=3rd Class; job=General Labourer
+Miss Marion Louise Becker (survivor); age=4.0; class=2nd Class
+Mrs Nellie E. Becker (survivor); age=35.0; class=2nd Class
+Master Richard F. Becker (survivor); age=1.0; class=2nd Class
+Miss Ruth Elizabeth Becker (survivor); age=12.0; class=2nd Class
+Mr Richard Leonard Beckwith (survivor); age=37.0; class=1st Class
+Mrs Sallie Beckwith (survivor); age=46.0; class=1st Class
+Mr William Barnet Bedford (victim); age=31.0; class=Victualling; job=Assistant Roast Cook
+Mr George Arthur Beedem (victim); age=34.0; class=Victualling; job=Bed Room Steward
+Mr William Beere (victim); age=19.0; class=Victualling; job=Kitchen Porter
+Mr Lawrence Beesley (survivor); age=34.0; class=2nd Class; job=Teacher
+Mr Karl Howell Behr (survivor); age=26.0; class=1st Class
+Mr Joseph Bell (victim); age=50.0; class=Engine; job=Chief Engineer
+Mr Frank Bendell (victim); age=24.0; class=Engine; job=Fireman
+Mr Johan Viktor Bengtsson (victim); age=26.0; class=3rd Class; job=General Labourer
+Mr Frederick Benham (victim); age=29.0; class=Victualling; job=Saloon Steward
+Mr George Alfred Bennett (victim); age=30.0; class=Engine; job=Fireman
+Mrs Mabel Bennett (survivor); age=33.0; class=Victualling; job=Stewardess
+Miss Lillian W. Bentham (survivor); age=19.0; class=2nd Class
+Mr E. Benville (victim); age=42.0; class=Engine; job=Fireman
+Mr Karl Ivar Sven Berglund (victim); age=22.0; class=3rd Class; job=General Labourer
+Sig. Battista Bernardi (victim); age=22.0; class=A la Carte; job=Assistant Waiter
+Mr William John Berriman (victim); age=23.0; class=2nd Class
+Mr Edward William Bessant (victim); age=31.0; class=Victualling; job=Baggage Steward
+Mr William Edward Bessant (victim); age=39.0; class=Engine; job=Fireman
+Miss Nellie Mayo Bessette (survivor); age=39.0; class=1st Class; group=Servant; job=Personal Maid
+Mr Alfred Edwin Best (victim); age=38.0; class=Victualling; job=Saloon Steward
+Mr Tannous Betros (victim); age=20.0; class=3rd Class; job=Shoemaker
+Mr David Beux (victim); age=26.0; class=A la Carte; job=Assistant Waiter
+Mr Joseph Henry Bevis (victim); age=22.0; class=Engine; job=Trimmer
+Mr Charles Biddlecombe (victim); age=33.0; class=Engine; job=Fireman
+Miss Rosalie Bidois (survivor); age=46.0; class=1st Class; group=Servant; job=Personal Maid
+Mr George Baptiste Bietrix (victim); age=28.0; class=A la Carte; job=Cook
+Mr Edward Charles Biggs (victim); age=20.0; class=Engine; job=Fireman
+Mr James Billows (victim); age=20.0; class=Engine; job=Trimmer
+Mr Lee Bing (survivor); age=32.0; class=3rd Class; job=Seaman
+Mr Walter Binstead (survivor); age=19.0; class=Engine; job=Trimmer
+Miss Ellen Bird (survivor); age=31.0; class=1st Class; group=Servant; job=Personal Maid
+Mr Hans Martin Monsen Birkeland (victim); age=21.0; class=3rd Class; job=Seaman
+Mr Jakob Birnbaum (victim); age=24.0; class=1st Class
+Mr Dickinson H. Bishop (survivor); age=25.0; class=1st Class
+Mrs Helen Bishop (survivor); age=19.0; class=1st Class
+Mr Walter Alexander Bishop (victim); age=34.0; class=Victualling; job=Bed Room Steward
+Mr Ernst Herbert Bjrklund (victim); age=18.0; class=3rd Class; job=General Labourer
+Mr Mauritz Hokan Bjrnstrm-steffansson (survivor); age=28.0; class=1st Class; job=Businessman
+Mr Alexander Black (victim); age=28.0; class=Engine; job=Fireman
+Mr D. Black (victim); age=41.0; class=Engine; job=Fireman
+Mr H. Blackman (victim); age=24.0; class=Engine; job=Fireman
+Mr Stephen Weart Blackwell (victim); age=45.0; class=1st Class
+Mr Percival Albert Blake (survivor); age=22.0; class=Engine; job=Trimmer
+Mr Seaton Blake (victim); age=26.0; class=Engine; job=Mess Steward
+Mr Thomas Blake (victim); age=36.0; class=Engine; job=Fireman
+Mr James Blaney (victim); age=32.0; class=Engine; job=Fireman
+Mr Henry Blank (survivor); age=39.0; class=1st Class; job=Jeweller
+Mr Eustace Horatius Blann (victim); age=21.0; class=Engine; job=Fireman
+Mrs Emma Bliss (survivor); age=45.0; class=Victualling; job=Stewardess
+Mr Jean Baptiste Blumet (victim); age=26.0; class=A la Carte; job=Pantryman
+Mr Alexis Joseph Bochatay (victim); age=30.0; class=Victualling; job=Chef
+Mr Pierre Giuseppe Bochet (victim); age=43.0; class=A la Carte; job=Waiter
+Mr Norman Leslie Bogie (victim); age=29.0; class=Victualling; job=Bed Room Steward
+Mr Hendrik Bolhuis (victim); age=21.0; class=A la Carte; job=Larder Cook
+Mr William John Bond (victim); age=40.0; class=Victualling; job=Bed Room Steward
+Miss Caroline Bonnell (survivor); age=30.0; class=1st Class
+Miss Elizabeth Bonnell (survivor); age=61.0; class=1st Class
+Mr W. Boothby (victim); age=36.0; class=Victualling; job=Bed Room Steward
+Mr John James Borebank (victim); age=42.0; class=1st Class; job=Property Developer / Real Estate
+Mr Guentcho Bostandyeff (victim); age=26.0; class=3rd Class; job=General Labourer
+Mr William John Boston (victim); age=30.0; class=Victualling; job=Deck Steward
+Mr William Hull Botsford (victim); age=25.0; class=2nd Class
+Mr W. Bott (victim); age=44.0; class=Engine; job=Greaser
+Mr Bernard John Boughton (victim); age=24.0; class=Victualling; job=First class saloon steward
+Master Akar Boulos (victim); age=9.0; class=3rd Class
+Miss Nourelain Boulos (victim); age=7.0; class=3rd Class
+Mrs Sultana Boulos (victim); age=40.0; class=3rd Class
+Mrs Catherine Bourke (victim); age=32.0; class=3rd Class; job=Housewife
+Mr John Bourke (victim); age=42.0; class=3rd Class; job=Farmer
+Miss Mary Bourke (victim); age=40.0; class=3rd Class
+Mr David John "Dai" Bowen (victim); age=26.0; class=3rd Class; job=Pugilist
+Miss Grace Scott Bowen (survivor); age=45.0; class=1st Class; group=Servant; job=Governess
+Mr Solomon Bowenur (victim); age=42.0; class=2nd Class; job=Merchant
+Miss Elsie Edith Bowerman (survivor); age=22.0; class=1st Class
+Miss Ruth Bowker (survivor); age=27.0; class=A la Carte; job=Cashier
+Mr Joseph Groves Boxhall (survivor); age=28.0; class=Deck; job=4th. Officer
+Mr John Boyd (victim); age=35.0; class=Victualling; job=Saloon Steward
+Mr John Henry Boyes (victim); age=36.0; class=Victualling; job=Saloon Steward
+Mr James H. Bracken (victim); age=29.0; class=2nd Class; job=Stockman
+Miss Bridget Delia Bradley (survivor); age=22.0; class=3rd Class
+Mr Patrick Joseph Bradley (victim); age=39.0; class=Engine; job=Fireman
+Mr T. Bradley (victim); age=29.0; class=Deck; job=Able Seaman
+Mr J. A. Bradshaw (victim); age=43.0; class=Victualling; job=Plate Steward
+Mr John Bertram Brady (victim); age=41.0; class=1st Class
+Miss Elin Ester Maria Braf (victim); age=20.0; class=3rd Class; job=Servant
+Mr W. Theodore Ronald Brailey (victim); age=24.0; class=2nd Class; group=Musician; job=Musician
+Mr Emil Brandeis (victim); age=48.0; class=1st Class
+Mr Lewis Richard Braund (victim); age=29.0; class=3rd Class; job=Farm Labourer
+Mr Owen Harris Braund (victim); age=22.0; class=3rd Class; job=Ironmonger
+Mr George Andrew Brereton (survivor); age=37.0; class=1st Class
+Dr Arthur Jackson Brewe (victim); age=45.0; class=1st Class
+Mr Henry ("Harry") Brewer (victim); age=30.0; class=Engine; job=Trimmer
+Mr George H. Brewster (victim); age=48.0; class=Victualling; job=Bed Room Steward
+Mr Albert Briant (victim); age=34.0; class=Engine; job=Greaser
+Mr Walter T Brice (survivor); age=42.0; class=Deck; job=Able Seaman
+Mr Roger Marie Bricoux (victim); age=20.0; class=2nd Class; group=Musician; job=Musician
+Mr Harold Sydney Bride (survivor); age=22.0; class=Victualling; job=Assistant Telegraphist
+Mr Arthur John Bright (survivor); age=42.0; class=Deck; job=Quartermaster
+Mr Harry Bristow (victim); age=33.0; class=Victualling; job=Saloon Steward
+Mr Robert Charles Bristow (victim); age=31.0; class=Victualling; job=Steward
+Mr Jos Joaquim de Brito (victim); age=32.0; class=2nd Class
+Mr Karl Rudolf Brobeck (victim); age=22.0; class=3rd Class; job=Farm Labourer
+Mr William Alfred Brocklebank (victim); age=35.0; class=3rd Class; job=Groom
+Mr John Brookman (victim); age=27.0; class=Victualling; job=Steward
+Mr J. Brooks (victim); age=25.0; class=Engine; job=Trimmer
+Mr Herbert George Broom (victim); age=33.0; class=Victualling; job=Bath Steward
+Mr Athol Frederick Broome (victim); age=30.0; class=Victualling; job=Verandah Steward
+Miss Amelia Mary "Mildred" Brown (survivor); age=18.0; class=2nd Class; group=Servant; job=Cook (Personal)
+Mrs Caroline Lane Brown (survivor); age=59.0; class=1st Class
+Miss Edith Eileen Brown (survivor); age=15.0; class=2nd Class; job=Scholar
+Mr Edward Brown (survivor); age=34.0; class=Victualling; job=Saloon Steward
+Mrs Elizabeth Catherine Brown (survivor); age=40.0; class=2nd Class
+Mr John Brown (victim); age=25.0; class=Engine; job=Fireman
+Mr Joseph James Brown (victim); age=25.0; class=Engine; job=Fireman
+Mrs Margaret Brown (survivor); age=44.0; class=1st Class
+Mr Thomas William Solomon Brown (victim); age=60.0; class=2nd Class; job=Hotelier
+Mr Walter James Brown (victim); age=28.0; class=Victualling; job=Saloon Steward
+Miss Dagmar Jenny Ingeborg Bryhl (survivor); age=20.0; class=2nd Class
+Mr Kurt Arnold Gottfrid Bryhl (victim); age=25.0; class=2nd Class
+Mr Daniel Buckley (survivor); age=21.0; class=3rd Class; job=Farm Labourer
+Mr H. E. Buckley (victim); age=34.0; class=Victualling; job=Assistant Vegetable Cook
+Miss Katherine Buckley (victim); age=22.0; class=3rd Class
+Mrs Emma Eliza Bucknell (survivor); age=59.0; class=1st Class
+Mr Edward John Buley (survivor); age=27.0; class=Deck; job=Able Seaman
+Mr W. Bull (victim); age=30.0; class=Victualling; job=Scullion
+Mr Henry Ashburnham Bulley (victim); age=21.0; class=Victualling; job=Boots
+Mr Wilfred James Bunnell (victim); age=20.0; class=Victualling; job=Plate Steward
+Mr Charles Reginald Burgess (survivor); age=18.0; class=Victualling; job=Extra 3rd. Baker
+Mr Jeremiah Burke (victim); age=19.0; class=3rd Class; job=Farm Labourer
+Mr Richard Edward Burke (victim); age=30.0; class=Victualling; job=Lounge Steward
+Mr William Burke (survivor); age=31.0; class=Victualling; job=Saloon Steward
+Miss Elizabeth Margaret Burns (survivor); age=41.0; class=1st Class; group=Servant; job=Nursemaid
+Miss Mary Delia Burns (victim); age=17.0; class=3rd Class
+Mr Ewart Sydenham Burr (victim); age=29.0; class=Victualling; job=Saloon Steward
+Mr Arthur Victor Edwards Burrage (survivor); age=20.0; class=Victualling; job=Plate Steward
+Mr Arthur Burroughs (victim); age=35.0; class=Engine; job=Fireman
+Mr Edward John Burton (victim); age=32.0; class=Engine; job=Fireman
+Miss Kate Buss (survivor); age=36.0; class=2nd Class
+Mr Reginald Fenton Butler (victim); age=25.0; class=2nd Class; job=Mechanical Engineer
+Major Archibald Willingham Butt (victim); age=46.0; class=1st Class; job=Military
+Mr Robert Henry Butt (victim); age=21.0; class=Victualling; job=Saloon Steward
+Mr William John Butt (victim); age=30.0; class=Engine; job=Fireman
+Mr John Butterworth (victim); age=23.0; class=Victualling; job=Saloon Steward
+Fr Thomas Roussel Davids Byles (victim); age=42.0; class=2nd Class; job=Priest / Minister
+Mr J. E. Byrne (victim); age=38.0; class=Victualling; job=Bed Room Steward
+Mrs Karolina Bystrm (survivor); age=42.0; class=2nd Class
+Mr Jego Grga Cacic (victim); age=18.0; class=3rd Class; job=Farmer
+Mr Luka Cacic (victim); age=38.0; class=3rd Class; job=Farmer
+Miss Manda Cacic (victim); age=21.0; class=3rd Class; job=Farm Labourer
+Miss Marija Cacic (victim); age=30.0; class=3rd Class; job=Farm Labourer
+Mr Alexander Milne Cairns (victim); age=28.0; class=1st Class; group=Servant; job=Servant
+Mr Edward Pennington Calderhead (survivor); age=42.0; class=1st Class
+Mr Hugh Calderwood (victim); age=30.0; class=Engine; job=Trimmer
+Mr Albert Francis Caldwell (survivor); age=26.0; class=2nd Class
+Master Alden Gates Caldwell (survivor); age=0.833333333333; class=2nd Class
+Mrs Sylvia Mae Caldwell (survivor); age=28.0; class=2nd Class
+Mr Jovo Calic (victim); age=17.0; class=3rd Class
+Mr Petar Calic (victim); age=17.0; class=3rd Class; job=Farm Labourer
+Miss Clear Annie Cameron (survivor); age=35.0; class=2nd Class; job=Personal Maid
+Mr Donald S. Campbell (victim); age=25.0; class=Victualling; job=3rd Class Clerk
+Mr William Henry Campbell (victim); age=21.0; class=2nd Class; group=H&W Guarantee Group
+Miss Mary Canavan (victim); age=22.0; class=3rd Class
+Mr Patrick Canavan (victim); age=21.0; class=3rd Class; job=General Labourer
+Mrs Helen Churchill Candee (survivor); age=52.0; class=1st Class
+Mr Ernest Charles Cann (victim); age=21.0; class=3rd Class; job=Miner
+Mr J. Canner (victim); age=40.0; class=Engine; job=Fireman
+Mr Joseph Caram (victim); age=28.0; class=3rd Class; job=Merchant
+Mrs Maria Elias Caram (victim); age=18.0; class=3rd Class; job=Housekeeper
+Mr William Carbines (victim); age=19.0; class=2nd Class; job=Miner
+Mrs Charlotte Wardle Cardeza (survivor); age=58.0; class=1st Class
+Mr Thomas Drake Martinez Cardeza (survivor); age=36.0; class=1st Class; job=Gentleman
+Mr August Sigfrid Carlsson (victim); age=28.0; class=3rd Class; job=Farmer
+Mr Carl Robert Carlsson (victim); age=24.0; class=3rd Class; job=General Labourer
+Mr Frans Olof Carlsson (victim); age=33.0; class=1st Class
+Mr William Carney (victim); age=31.0; class=Victualling; job=Lift Steward
+Miss Jane Carr (victim); age=45.0; class=3rd Class
+Mr Richard Stephen Carr (victim); age=37.0; class=Engine; job=Trimmer
+Mr Jos Pedro Carra-esteves (victim); age=17.0; class=1st Class
+Mr Francisco Mauro Severiano Carrau (victim); age=27.0; class=1st Class
+Mr James (W.) Carter (ball) (victim); age=46.0; class=Engine; job=Fireman
+Fr Ernest Courtenay Carter (victim); age=54.0; class=2nd Class; job=Priest / Minister
+Mrs Lilian Carter (victim); age=45.0; class=2nd Class
+Mrs Lucile Carter (survivor); age=36.0; class=1st Class
+Miss Lucile Polk Carter (survivor); age=13.0; class=1st Class
+Mr William Ernest Carter (survivor); age=36.0; class=1st Class
+Master William Thornton II Carter (survivor); age=11.0; class=1st Class
+Mr James Edward Cartwright (victim); age=32.0; class=Victualling; job=Saloon Steward
+Mr Alfred John Carver (victim); age=28.0; class=3rd Class; job=Seaman
+Sig. Giulio Casali (victim); age=32.0; class=A la Carte; job=Waiter
+Mr Howard Brown Case (victim); age=49.0; class=1st Class
+Mr T. Casey (victim); age=28.0; class=Engine; job=Trimmer
+Mrs Eleanor Genevieve Cassebeer (survivor); age=36.0; class=1st Class
+Mr Charles Casswill (victim); age=34.0; class=Victualling; job=Saloon Steward
+Mr Edward Castleman (victim); age=37.0; class=Engine; job=Greaser
+Miss Annie Caton (survivor); age=24.0; class=Victualling; job=Turkish Bath Stewardess
+Mr William Ewart Caunt (victim); age=27.0; class=Victualling; job=Grill Cook
+Mr Herbert Cave (victim); age=34.0; class=Victualling; job=Saloon Steward
+Mr George Henry Cavell (survivor); age=22.0; class=Engine; job=Trimmer
+Mrs Julia Florence Cavendish (survivor); age=25.0; class=1st Class
+Mr Tyrell William Cavendish (victim); age=36.0; class=1st Class
+Mr Charles Thomas Cecil (victim); age=21.0; class=Victualling; job=Steward
+Mr Francesco Celotti (victim); age=24.0; class=3rd Class; job=Stoker
+Mr Adrien Finnin Chaboisson (victim); age=25.0; class=A la Carte; job=Roast Cook
+Mrs Carrie Constance Chaffee (survivor); age=47.0; class=1st Class
+Mr Herbert Fuller Chaffee (victim); age=46.0; class=1st Class
+Mrs Bertha Chambers (survivor); age=32.0; class=1st Class
+Mr Norman Campbell Chambers (survivor); age=27.0; class=1st Class
+Mr Charles Henry Chapman (victim); age=52.0; class=2nd Class
+Mr John Henry Chapman (victim); age=36.0; class=2nd Class; job=Farmer
+Mr Joseph Charles Chapman (survivor); age=32.0; class=Victualling; job=Boots
+Mrs Sara Elizabeth Chapman (victim); age=28.0; class=2nd Class
+Mr John Charman (victim); age=25.0; class=Victualling; job=Saloon Steward
+Mr David Charters (victim); age=20.0; class=3rd Class; job=General Labourer
+Miss Victorine Chaudanson (survivor); age=36.0; class=1st Class; group=Servant; job=Personal Maid
+Mr Emir Farres Chehab/shihab (victim); age=29.0; class=3rd Class; job=General Labourer
+Mr William Victor Cherrett (victim); age=24.0; class=Engine; job=Fireman
+Miss Gladys Cherry (survivor); age=30.0; class=1st Class; job=Of Independent Means
+Mr William Frederick Cheverton (victim); age=27.0; class=Victualling; job=Saloon Steward
+Mr Paul Romaine Marie Lonce Chevr (survivor); age=45.0; class=1st Class; job=Sculptor
+Mrs Edith Martha Bowerman Chibnall (survivor); age=48.0; class=1st Class; job=Of Independent Means
+Mr Chang Chip (survivor); age=32.0; class=3rd Class; job=Seaman
+Mr Roderick Robert Crispin Chisholm (victim); age=40.0; class=1st Class; group=H&W Guarantee Group; job=Draughtsman
+Mr George Alexander Chisnall (victim); age=35.0; class=Engine; job=Boilermaker
+Mr Archibald George Chitty (victim); age=28.0; class=Victualling; job=Steward
+Mr George Henry Chitty (victim); age=52.0; class=Victualling; job=Baker
+Mr John Chorley (victim); age=25.0; class=Engine; job=Fireman
+Mr Emil Christmann (victim); age=29.0; class=3rd Class; job=Clerk
+Mr H. Christmas (victim); age=33.0; class=Victualling; job=Assistant Saloon Steward
+Mrs Alice Frances Christy (survivor); age=45.0; class=2nd Class
+Miss Rachel Juli Cohen Christy (survivor); age=25.0; class=2nd Class
+Mr Apostolos M. Chronopoulos (victim); age=26.0; class=3rd Class; job=General Labourer
+Mr Dimitrios M. Chronopoulos (victim); age=21.0; class=3rd Class; job=General Labourer
+Mrs Virginia Estelle Clark (survivor); age=26.0; class=1st Class
+Mr Walter Miller Clark (victim); age=27.0; class=1st Class
+Mr William Clark (survivor); age=39.0; class=Engine; job=Fireman
+Mrs Ada Maria Clarke (survivor); age=28.0; class=2nd Class
+Mr Charles Valentine Clarke (victim); age=29.0; class=2nd Class; job=Dairy Worker
+Mr John Frederick Preston Clarke (victim); age=30.0; class=2nd Class; group=Musician; job=Musician
+Miss Alice Catherine Cleaver (survivor); age=22.0; class=1st Class; group=Servant; job=Nursemaid
+Mr Frederick Clench (survivor); age=34.0; class=Deck; job=Able Seaman
+Mr George Clench (victim); age=31.0; class=Deck; job=Able Seaman
+Mr George Quincy Clifford (victim); age=40.0; class=1st Class
+Mr Harry Coe (victim); age=21.0; class=Engine; job=Trimmer
+Mr Domingos Fernandeo Coelho (victim); age=20.0; class=3rd Class; job=General Labourer
+Mr Gurshon "Gus" Cohen (survivor); age=18.0; class=3rd Class; job=Printer / Compositor
+Mr Patrick Colbert (victim); age=24.0; class=3rd Class; job=General Labourer
+Mr Satio Coleff (victim); age=24.0; class=3rd Class; job=General Labourer
+Mr Albert Edward Coleman (victim); age=28.0; class=Victualling; job=Saloon Steward
+Mr John Coleman (victim); age=57.0; class=Engine; job=Mess Steward
+Mr Reginald Charles Coleridge (victim); age=29.0; class=2nd Class; job=Advertising Consultant
+Mr E. Joseph Colgan (survivor); age=33.0; class=Victualling; job=Scullion
+Mr Erik Gustaf Collander (victim); age=27.0; class=2nd Class
+Mr Sidney Clarence Stuart Collett (survivor); age=25.0; class=2nd Class
+Mr Edward Pomeroy Colley (victim); age=37.0; class=1st Class
+Mr John Collins (survivor); age=17.0; class=Victualling; job=Scullion
+Mr Samuel Collins (survivor); age=35.0; class=Engine; job=Fireman
+Mrs Charlotte Annie Collyer (survivor); age=31.0; class=2nd Class
+Mr Harvey Collyer (victim); age=31.0; class=2nd Class; job=Grocer
+Miss Marjorie Charlotte "Lottie" Collyer (survivor); age=8.0; class=2nd Class
+Mr Peju Coltcheff (victim); age=36.0; class=3rd Class; job=General Labourer
+Mr George Combes (survivor); age=34.0; class=Engine; job=Fireman
+Mr Alexander Taylor jr Compton (victim); age=37.0; class=1st Class
+Mrs Mary Eliza Compton (survivor); age=64.0; class=1st Class
+Miss Sara Rebecca Compton (survivor); age=39.0; class=1st Class
+Mr Thomas Henry Conlon (victim); age=31.0; class=3rd Class; job=General Labourer
+Mr Michael Connaghton (victim); age=31.0; class=3rd Class; job=Farm Labourer
+Miss Kate Connolly (survivor); age=23.0; class=3rd Class
+Miss Kate Connolly (victim); age=35.0; class=3rd Class
+Mr Patrick Connors (victim); age=66.0; class=3rd Class; job=Farm Labourer
+Mr P. W. Conway (victim); age=25.0; class=Victualling; job=Saloon Steward
+Mr George Cook (victim); age=32.0; class=Victualling; job=Saloon Steward
+Mr Jacob Cook (victim); age=43.0; class=3rd Class; job=Wood Carver
+Mrs Selena Cook (survivor); age=22.0; class=2nd Class
+Mr Augustus Charles Coombs (victim); age=42.0; class=Victualling; job=Cook
+Mr Harry Cooper (victim); age=26.0; class=Engine; job=Fireman
+Mr James Edward Cooper (victim); age=25.0; class=Engine; job=Trimmer
+Mr B. Copperthwaite (victim); age=22.0; class=Engine; job=Fireman
+Mr Bartol Cor (victim); age=35.0; class=3rd Class; job=General Labourer
+Mr Ivan Cor (victim); age=27.0; class=3rd Class; job=General Labourer
+Mr Liudevit Cor (victim); age=19.0; class=3rd Class; job=General Labourer
+Mr Ernest Theodore Corben (victim); age=27.0; class=Victualling; job=Assistant Printer Steward
+Mrs Irene Corbett (victim); age=30.0; class=2nd Class; job=Musician
+Mr Denny Corcoran (victim); age=33.0; class=Engine; job=Fireman
+Mrs Mary Phyllis Elizabeth Corey (victim); age=30.0; class=2nd Class
+Mr Harry Corn (victim); age=30.0; class=3rd Class; job=Upholsterer
+Mr Marcel Raymond Andr Cornaire (victim); age=19.0; class=A la Carte; job=Assistant Roast Cook
+Mrs Malvina Helen Cornell (survivor); age=55.0; class=1st Class
+Miss Helen Corr (survivor); age=16.0; class=3rd Class
+Mr Henry "Harry" Cotterill (victim); age=20.0; class=2nd Class; job=Carpenter / Joiner
+Mr A. Cotton (victim); age=26.0; class=Engine; job=Trimmer
+Mr Frank Couch (victim); age=28.0; class=Deck; job=Able Seaman
+Mr Joseph Henry Couch (victim); age=45.0; class=Engine; job=Greaser
+Mr Robert Couper (survivor); age=30.0; class=Engine; job=Fireman
+Mr Auguste Louis Coutin (victim); age=28.0; class=A la Carte; job=Entre Cook
+Master Neville Leslie Coutts (survivor); age=3.0; class=3rd Class
+Master William Loch "Willie" Coutts (survivor); age=9.0; class=3rd Class
+Mrs Winnie "Minnie" Coutts (survivor); age=36.0; class=3rd Class
+Mr William Denton Cox (victim); age=29.0; class=Victualling; job=Steward
+Mr Daniel Coxon (victim); age=59.0; class=3rd Class; job=Dealer
+Mr Francis Ernest George Coy (victim); age=26.0; class=Engine; job=Junior Assistant 3rd. Engineer
+Mr Henry James Crabb (victim); age=23.0; class=Engine; job=Trimmer
+Mr Frederick Crafter (survivor); age=27.0; class=Victualling; job=Saloon Steward
+Mr John Bertram Crafton (victim); age=59.0; class=1st Class; job=Businessman
+Mr Alfred George Crawford (survivor); age=43.0; class=Victualling; job=Bed Room Steward
+Mr Ernest James Crease (victim); age=19.0; class=3rd Class; job=Tinsmith
+Mr Henry Philip Creese (victim); age=44.0; class=Engine; job=Deck Engineer
+Mr John Hatfield Cribb (victim); age=44.0; class=3rd Class; job=Butler
+Miss Laura Mae Cribb (survivor); age=16.0; class=3rd Class; job=Shop Assistant
+Mr James Crimmins (survivor); age=21.0; class=Engine; job=Fireman
+Mr Albert Hector Crisp (victim); age=39.0; class=Victualling; job=Saloon Steward
+Mr William Crispin (victim); age=32.0; class=Victualling; job=Glory Hole Steward
+Mrs Catherine Elizabeth Crosby (survivor); age=64.0; class=1st Class
+Captain Edward Gifford Crosby (victim); age=70.0; class=1st Class
+Miss Harriette Rebecca Crosby (survivor); age=39.0; class=1st Class
+Mr J. Bertram Crosby (victim); age=42.0; class=Victualling; job=Turkish Bath Attendant
+Mr W. Cross (victim); age=39.0; class=Engine; job=Fireman
+Sig. Luigi/Louis Crovella (victim); age=17.0; class=A la Carte; job=Assistant Waiter
+Mr George Frederick Crowe (survivor); age=30.0; class=Victualling; job=Saloon Steward
+Mr Charles Crumplin (victim); age=35.0; class=Victualling; job=Bed Room Steward
+Mr Charles Cullen (survivor); age=45.0; class=Victualling; job=Bed Room Steward
+Mr Jeso Culumovic (victim); age=17.0; class=3rd Class
+Mrs Florence Briggs Cumings (survivor); age=35.0; class=1st Class
+Mr John Bradley Cumings (victim); age=39.0; class=1st Class
+Mr Alfred Fleming Cunningham (victim); age=21.0; class=2nd Class; group=H&W Guarantee Group; job=Fitter
+Mr Andrew Cunningham (survivor); age=35.0; class=Victualling; job=Bed Room Steward
+Mr B. Cunningham (victim); age=30.0; class=Engine; job=Fireman
+Mr Arthur Curtis (victim); age=25.0; class=Engine; job=Fireman
+Mr Tannous Daher (victim); age=28.0; class=3rd Class
+Mr Charles Edward Dahl (survivor); age=45.0; class=3rd Class; job=Carpenter / Joiner
+Mr Mauritz Nils Martin Dahl (victim); age=30.0; class=3rd Class; job=General Labourer
+Mr Nils Martin Dahl (victim); age=23.0; class=3rd Class; job=General Labourer
+Miss Gerda Ulrika Dahlberg (victim); age=22.0; class=3rd Class
+Mr Branko Dakic (victim); age=19.0; class=3rd Class; job=General Labourer
+Mr Eugene Patrick Daly (survivor); age=29.0; class=3rd Class; job=Farm Labourer
+Miss Margaret Marcella "Maggie" Daly (survivor); age=30.0; class=3rd Class; job=Housekeeper
+Mr Peter Dennis Daly (survivor); age=51.0; class=1st Class; job=Businessman
+Mrs Anna Sigrid Maria Danbom (victim); age=28.0; class=3rd Class
+Mr Ernst Gilbert Danbom (victim); age=34.0; class=3rd Class; job=General Labourer
+Master Gilbert Sigvard Emanuel Danbom (victim); age=0.333333333333; class=3rd Class
+Mr Robert Williams Daniel (survivor); age=27.0; class=1st Class
+Miss Sarah Daniels (survivor); age=33.0; class=1st Class; group=Servant; job=Personal Maid
+Mr Sidney Edward Daniels (survivor); age=18.0; class=Victualling; job=Third class steward
+Mr Yoto Danoff (victim); age=27.0; class=3rd Class; job=General Labourer
+Mr Ristiu Dantcheff (victim); age=25.0; class=3rd Class; job=General Labourer
+Mr William George Dashwood (victim); age=19.0; class=Victualling; job=Saloon Steward
+Mrs Orian Davidson (survivor); age=27.0; class=1st Class
+Mr Thornton Davidson (victim); age=31.0; class=1st Class
+Mr Alfred J. Davies (victim); age=24.0; class=3rd Class; job=Caster
+Mr Charles Henry Davies (victim); age=21.0; class=2nd Class
+Mrs Elizabeth Agnes Mary Davies (survivor); age=48.0; class=2nd Class
+Mr Evan Davies (victim); age=22.0; class=3rd Class; job=Miner
+Mr Gordon Raleigh Davies (victim); age=33.0; class=Victualling; job=Bed Room Steward
+Mr John James Davies (victim); age=27.0; class=Victualling; job=Extra 2nd Baker
+Master John Morgan jr Davies (survivor); age=8.0; class=2nd Class
+Mr John Samuel Davies (victim); age=21.0; class=3rd Class; job=Ironworker
+Mr Joseph Davies (victim); age=17.0; class=3rd Class; job=Ironworker
+Mr Robert J. Davies (victim); age=26.0; class=Victualling; job=Saloon Steward
+Mr Thomas Davies (victim); age=33.0; class=Engine; job=Leading Fireman
+Miss Mary Davis (survivor); age=28.0; class=2nd Class
+Mr Stephen James Davis (victim); age=39.0; class=Deck; job=Able Seaman
+Mrs Mary E. Davison (survivor); age=34.0; class=3rd Class
+Mr Thomas Henry Davison (victim); age=32.0; class=3rd Class; job=Blacksmith
+Mr Joseph Dawson (victim); age=23.0; class=Engine; job=Trimmer
+Sig. Govanni De marsico (victim); age=20.0; class=A la Carte; job=Assistant Waiter
+Mrs Anna De messemaeker (survivor); age=36.0; class=3rd Class
+Mr Guillaume Joseph De messemaeker (survivor); age=36.0; class=3rd Class
+Mr Theodoor De mulder (survivor); age=30.0; class=3rd Class
+Mr Alfons De pelsmaeker (victim); age=16.0; class=3rd Class; job=Farm Labourer
+Mr Percy William Deacon (victim); age=20.0; class=2nd Class
+Mr Bertram Frank Dean (victim); age=25.0; class=3rd Class; job=Farmer
+Master Bertram Vere Dean (survivor); age=1.0; class=3rd Class
+Miss Elizabeth Gladys 'Millvina' Dean (survivor); age=0.166666666667; class=3rd Class
+Mrs Eva Georgetta Dean (survivor); age=32.0; class=3rd Class
+Mr George H. Dean (victim); age=19.0; class=Victualling; job=Assistant Saloon Steward
+Mr Maurice Emile Victor Debreucq (victim); age=18.0; class=A la Carte; job=Assistant Waiter
+Mr Alfred Arnold Deeble (victim); age=29.0; class=Victualling; job=Saloon Steward
+Mrs Argene Del carlo (survivor); age=24.0; class=2nd Class
+Mr Sebastiano Del carlo (victim); age=29.0; class=2nd Class
+Mr Redjo Delalic (victim); age=25.0; class=3rd Class; job=General Labourer
+Mr Albert ("Herbert") Denbuoy (victim); age=25.0; class=2nd Class
+Mr Mitto Denkoff (victim); age=30.0; class=3rd Class; job=General Labourer
+Mr Samuel Dennis (victim); age=22.0; class=3rd Class; job=Farmer
+Mr William Dennis (victim); age=26.0; class=3rd Class; job=Farmer
+Mr Albert Derrett (victim); age=26.0; class=Victualling; job=Saloon Steward
+Mr Percival Stainer Deslands (victim); age=36.0; class=Victualling; job=Saloon Steward
+Mr Louis Gabriel Desvernine (victim); age=20.0; class=A la Carte; job=Assistant Pastry Cook
+Miss Margaret Delia Devaney (survivor); age=19.0; class=3rd Class
+Mr John Joseph Diaper (survivor); age=27.0; class=Engine; job=Fireman
+Mr William Dibden (victim); age=18.0; class=2nd Class
+Mr Albert Adrian Dick (survivor); age=31.0; class=1st Class
+Mrs Vera Dick (survivor); age=17.0; class=1st Class
+Mr W. Dickson (victim); age=36.0; class=Engine; job=Trimmer
+Mr Mirko Dika (victim); age=17.0; class=3rd Class
+Mr John Dilley (survivor); age=30.0; class=Engine; job=Fireman
+Mr Thomas Patrick Dillon (survivor); age=24.0; class=Engine; job=Trimmer
+Mr Jovan Dimic (victim); age=42.0; class=3rd Class
+Mr James Richard Dinenage (victim); age=49.0; class=Victualling; job=Saloon Steward
+Mr Valtcho Dintcheff (victim); age=43.0; class=3rd Class
+Mr Edward Charles Dodd (victim); age=38.0; class=Engine; job=Junior 3rd. Engineer
+Mr George Charles Dodd (victim); age=44.0; class=Victualling; job=Steward
+Mr Henry Watson Dodds (victim); age=27.0; class=Engine; job=Junior Assistant 4th Engineer
+Mrs Ruth Dodge (survivor); age=34.0; class=1st Class
+Master Washington Dodge (survivor); age=4.0; class=1st Class
+Dr Washington Dodge (survivor); age=52.0; class=1st Class; job=Politician
+Mr Frederick Doel (survivor); age=22.0; class=Engine; job=Fireman
+Mr Joseph Dolby (victim); age=36.0; class=Victualling; job=Reception Room Steward
+Mrs Ada Julia Elizabeth Doling (survivor); age=34.0; class=2nd Class
+Miss Elsie Doling (survivor); age=18.0; class=2nd Class
+Sig. Italo Francesco Donati (victim); age=17.0; class=A la Carte; job=Assistant Waiter
+Mr Frank (?Thomas) Donoghue (victim); age=35.0; class=Victualling; job=Bed Room Steward
+Miss Bridget Donohoe (victim); age=21.0; class=3rd Class
+Mr Patrick Dooley (victim); age=38.0; class=3rd Class; job=General Labourer
+Mr A. Dore (survivor); age=22.0; class=Engine; job=Trimmer
+Mr Edward Arthur Dorking (survivor); age=18.0; class=3rd Class; job=Groom
+Mr Louis Auguste Dornier (victim); age=20.0; class=A la Carte; job=Assistant Fish Cook
+Mr William John Dougherty (victim); age=22.0; class=3rd Class
+Mr W. Doughty (victim); age=22.0; class=Victualling; job=Saloon Steward
+Mrs Mahala Douglas (survivor); age=48.0; class=1st Class
+Mrs Mary Hlne Douglas (survivor); age=27.0; class=1st Class
+Mr Walter Donald Douglas (victim); age=50.0; class=1st Class
+Mr William Joseph Douton (victim); age=55.0; class=2nd Class; job=Quarryman
+Miss Elizabeth Dowdell (survivor); age=31.0; class=3rd Class; job=Housekeeper
+Miss Elizabeth Doyle (victim); age=24.0; class=3rd Class
+Mr Laurence Doyle (victim); age=27.0; class=Engine; job=Fireman
+Mr Jozef Drazenovic (victim); age=33.0; class=3rd Class; job=General Labourer
+Mr James Vivian Drew (victim); age=42.0; class=2nd Class
+Mrs Lulu Thorne Drew (survivor); age=34.0; class=2nd Class
+Master Marshall Brines Drew (survivor); age=8.0; class=2nd Class
+Miss Jennie Dropkin (survivor); age=24.0; class=3rd Class; job=Box Maker
+Sir Cosmo Edmund Duff gordon (survivor); age=49.0; class=1st Class; job=Landowner
+ Lucy Christiana, Lady Duff gordon (survivor); age=48.0; class=1st Class; job=Dressmaker / Couturire
+Mr William Luke Duffy (victim); age=28.0; class=Engine; job=Writer / Engineer's Clerk
+Mr William Crothers Dulles (victim); age=39.0; class=1st Class
+Mr William Dunford (victim); age=41.0; class=Victualling; job=Hospital Steward
+Mr Joseph Pierre Duquemin (survivor); age=19.0; class=3rd Class; job=Mason
+Sra. Asuncion Duran y more (survivor); age=27.0; class=2nd Class
+Sra. Florentina Durn i mon (survivor); age=30.0; class=2nd Class
+Mr James Durnil (victim); age=38.0; class=Engine; job=Leading Fireman
+Mr Frank Dwan (victim); age=65.0; class=3rd Class; job=Farm Labourer
+Mr Henry Ryland Dyer (victim); age=24.0; class=Engine; job=Senior Assistant 4th. Engineer
+Mr William Dyer (victim); age=31.0; class=Victualling; job=Saloon Steward
+Mr Adolf Fredrik Dyker (victim); age=23.0; class=3rd Class; job=General Labourer
+Mrs Anna Elisabeth Judith Dyker (survivor); age=22.0; class=3rd Class
+Mr Frank Dymond (survivor); age=40.0; class=Engine; job=Fireman
+Mr Alfred James Eagle (victim); age=22.0; class=Engine; job=Trimmer
+Mrs Olive Earnshaw (survivor); age=23.0; class=1st Class; job=Of Independent Means
+Mr Charles Eastman (victim); age=44.0; class=Engine; job=Greaser
+Mr Francis Samuel Jacob Edbrooke (victim); age=23.0; class=Victualling; job=Third class steward
+Mr George B. Ede (victim); age=22.0; class=Victualling; job=Steward
+Mr Frederick William Edge (victim); age=39.0; class=Victualling; job=Deck Steward
+Mr Gustaf Hjalmar Edvardsson (victim); age=18.0; class=3rd Class; job=General Labourer
+Mr Clement Edwards (victim); age=39.0; class=Victualling; job=Assistant Pantryman Steward
+Mr William Henry Egg (victim); age=47.0; class=Victualling; job=Third class steward
+Mr George Floyd Eitemiller (victim); age=23.0; class=2nd Class
+Mr Hans Linus Eklund (victim); age=16.0; class=3rd Class; job=General Labourer
+Mr Johan Ekstrm (victim); age=45.0; class=3rd Class; job=General Labourer
+Mr Tannous Elias nasrallah (victim); age=22.0; class=3rd Class; job=General Labourer
+Mr Dibo Elias (victim); age=29.0; class=3rd Class; job=General Labourer
+Mr Joseph jr. Elias (victim); age=15.0; class=3rd Class; job=General Labourer
+Mr Everett Edward Elliott (victim); age=24.0; class=Engine; job=Trimmer
+Mr John Bertram Ellis (survivor); age=30.0; class=Victualling; job=Assistant Vegetable Cook
+Mr William James Elsbury (victim); age=47.0; class=3rd Class; job=Farmer
+Miss Virginia Ethel Emanuel (survivor); age=5.0; class=3rd Class
+Mr Ingvar Enander (victim); age=21.0; class=2nd Class
+Miss Caroline Louise Endres (survivor); age=39.0; class=1st Class; group=Servant; job=Nurse
+Mr Walter Ennis (victim); age=35.0; class=Victualling; job=Turkish Bath Attendant
+Mr Albert George Ervine (victim); age=18.0; class=Engine; job=Electrician
+Mr Manuel Gonalves Estanislau (victim); age=37.0; class=3rd Class; job=General Labourer
+Mr Henry Samuel Etches (survivor); age=41.0; class=Victualling; job=First class bedroom steward
+Miss Elizabeth Mussey Eustis (survivor); age=54.0; class=1st Class
+Mr Alfred Frank Evans (survivor); age=25.0; class=Deck; job=Lookout
+Miss Edith Corse Evans (victim); age=36.0; class=1st Class
+Mr Frank Oliver Evans (survivor); age=27.0; class=Deck; job=Able Seaman
+Mr George Richard Evans (victim); age=27.0; class=Victualling; job=Saloon Steward
+Mr William Evans (victim); age=30.0; class=Engine; job=Trimmer
+Mr Thomas James Everett (victim); age=39.0; class=3rd Class; job=Crane Operator
+Mr Arne Joma Fahlstrm (victim); age=18.0; class=2nd Class
+Mr Henry Fairall (victim); age=38.0; class=Victualling; job=Saloon Steward
+Mr William Edward Farquharson (victim); age=39.0; class=Engine; job=Senior 2nd. Engineer
+Mr James "Jim" Farrell (victim); age=25.0; class=3rd Class; job=Farm Labourer
+Mr Ernest John Farrenden (victim); age=22.0; class=Victualling; job=Confectioner
+Mr John Farthing (victim); age=57.0; class=1st Class; group=Servant; job=Servant
+Mr William Stephen Faulkner (survivor); age=37.0; class=Victualling; job=Bed Room Steward
+Mr Harry Bartram Faunthorpe (victim); age=40.0; class=2nd Class
+Mr Thomas Joseph Fay (victim); age=30.0; class=Engine; job=Greaser
+Mr Alfred J. Fellowes (victim); age=29.0; class=Victualling; job=Boots
+Mr George William Feltham (victim); age=36.0; class=Victualling; job=Vienna Baker
+Mr Antonio Ferrary (victim); age=34.0; class=Engine; job=Trimmer
+Mr W. Ferris (victim); age=38.0; class=Engine; job=Leading Fireman
+Sig. Carlo Fey (victim); age=30.0; class=A la Carte; job=Scullion
+Mr Joseph Charles Fillbrook (victim); age=18.0; class=2nd Class; job=Painter & Decorator
+Mr Harry Finch (victim); age=18.0; class=Victualling; job=Steward
+Mr Luigi Finoli (survivor); age=34.0; class=3rd Class
+Sig. Giuseppe Bertoldo Fioravante (victim); age=23.0; class=A la Carte; job=Assistant Scullion
+Mr Eberhard Thelander Fischer (victim); age=18.0; class=3rd Class
+Mr Cecil William Fitzpatrick (survivor); age=21.0; class=Engine; job=Mess Steward
+Mr Hugh J. Fitzpatrick (victim); age=27.0; class=Engine; job=Junior Boilermaker
+Mr Edward Flarty (survivor); age=43.0; class=Engine; job=Fireman
+Mr Frederick Fleet (survivor); age=24.0; class=Deck; job=Lookout
+Mrs Antoinette Flegenheim (survivor); age=48.0; class=1st Class
+Miss Honora Fleming (victim); age=22.0; class=3rd Class
+Miss Margaret Fleming (survivor); age=42.0; class=1st Class; group=Servant; job=Personal Maid
+Mr Peter W. Fletcher (victim); age=26.0; class=Victualling; job=Bugler Steward
+Mr James Flynn (victim); age=28.0; class=3rd Class; job=General Labourer
+Mr John Flynn (victim); age=42.0; class=3rd Class; job=Farm Labourer
+Mr John Irwin Flynn (survivor); age=36.0; class=1st Class
+Mr John Foley (survivor); age=44.0; class=Deck; job=Storekeeper
+Mr Joseph Foley (victim); age=19.0; class=3rd Class; job=Farm Labourer
+Mr William Foley (victim); age=20.0; class=3rd Class; job=Farm Labourer
+Mr William C. Foley (survivor); age=26.0; class=Victualling; job=Steward
+Mr Choong Foo (survivor); age=32.0; class=3rd Class; job=Seaman
+Mr Arthur Ford (victim); age=22.0; class=3rd Class; job=Carpenter / Joiner
+Miss Dollina Margaret Ford (victim); age=20.0; class=3rd Class; job=Servant
+Mr Edward Watson Ford (victim); age=18.0; class=3rd Class; job=Blacksmith
+Mr Ernest Ford (victim); age=32.0; class=Victualling; job=Steward
+Mr F. Ford (victim); age=37.0; class=Victualling; job=Bed Room Steward
+Mr H. Ford (victim); age=22.0; class=Engine; job=Trimmer
+Mrs Margaret Ann Watson Ford (victim); age=48.0; class=3rd Class; job=Farmer
+Miss Robina Maggie Ford (victim); age=7.0; class=3rd Class
+Mr Thomas Ford (victim); age=30.0; class=Engine; job=Leading Fireman
+Mr William Neal Thomas Ford (victim); age=16.0; class=3rd Class; job=Messenger
+Mr Benjamin Laventall Foreman (victim); age=30.0; class=1st Class
+Miss Alice Elizabeth Fortune (survivor); age=24.0; class=1st Class
+Mr Charles Alexander Fortune (victim); age=19.0; class=1st Class
+Miss Ethel Flora Fortune (survivor); age=28.0; class=1st Class
+Miss Mabel Helen Fortune (survivor); age=23.0; class=1st Class
+Mr Mark Fortune (victim); age=64.0; class=1st Class
+Mrs Mary Fortune (survivor); age=60.0; class=1st Class
+Mr James Forward (survivor); age=27.0; class=Deck; job=Able Seaman
+Mr Albert C. Foster (victim); age=37.0; class=Engine; job=Storekeeper
+Mr Patrick Fox (victim); age=28.0; class=3rd Class; job=General Labourer
+Mr Stanley Hubert Fox (victim); age=38.0; class=2nd Class
+Mr William Thomas Fox (victim); age=27.0; class=Victualling; job=Steward
+Miss Laura Mabel Francatelli (survivor); age=31.0; class=1st Class; group=Servant; job=Secretary
+Mr Alan Vincent Franklin (victim); age=29.0; class=Victualling; job=Saloon Steward
+Mr Charles ("Charles Fardon") Franklin (victim); age=38.0; class=3rd Class; job=Carpenter / Joiner
+Mr Thomas Parnham Franklin (victim); age=37.0; class=1st Class
+Mr J. Fraser (victim); age=30.0; class=Engine; job=Fireman
+Mr James Fraser (victim); age=29.0; class=Engine; job=Junior Assistant 3rd. Engineer
+Mrs Clara Frauenthal (survivor); age=42.0; class=1st Class
+Dr Henry William Frauenthal (survivor); age=49.0; class=1st Class; job=Doctor
+Mr Isaac Gerald Frauenthal (survivor); age=43.0; class=1st Class
+Mr Walter Francis Fredericks (survivor); age=21.0; class=Engine; job=Trimmer
+Mr Ernest Edward Samuel Freeman (victim); age=43.0; class=Victualling; job=Deck Steward
+Miss Hedwig Margaritha Frlicher (survivor); age=22.0; class=1st Class
+Mrs Margaretha Emerentia Frlicher-stehli (survivor); age=48.0; class=1st Class
+Mr Maximilian Josef Frlicher-stehli (survivor); age=60.0; class=1st Class
+Mr Anthony Wood Frost (victim); age=37.0; class=2nd Class; group=H&W Guarantee Group; job=Fitter
+Mr John Richard Fry (victim); age=39.0; class=1st Class; group=Servant; job=Servant
+Mr Albert Ernest Fryer (survivor); age=26.0; class=Engine; job=Trimmer
+Miss Annie Clemmer Funk (victim); age=38.0; class=2nd Class; job=Missionary
+Mr Jacques Heath Futrelle (victim); age=37.0; class=1st Class; job=Writer
+Mrs Lily May Futrelle (survivor); age=35.0; class=1st Class
+Mr Joseph J. Fynney (victim); age=35.0; class=2nd Class
+Mr Harry Gale (victim); age=38.0; class=2nd Class; job=Miner
+Mr Shadrach Gale (victim); age=33.0; class=2nd Class; job=Miner
+Mr Martin Gallagher (victim); age=29.0; class=3rd Class; job=Farm Labourer
+Mr John Garfirth (victim); age=21.0; class=3rd Class; job=Shoemaker
+Miss Ethel Garside (survivor); age=34.0; class=2nd Class
+Mr Alfred Gaskell (victim); age=16.0; class=2nd Class
+Sig. Gaspare Antonio Pietro Gatti (victim); age=37.0; class=A la Carte; job=la Carte Restaurant Manager
+Mr Laurence Gavey (victim); age=26.0; class=2nd Class
+Mr Richard Charles Geddes (victim); age=31.0; class=Victualling; job=Bed Room Steward
+Mr Arthur H. Gee (victim); age=47.0; class=1st Class
+Mr Alfred Emest Geer (victim); age=24.0; class=Engine; job=Fireman
+Mrs Shawneene George/joseph (survivor); age=38.0; class=3rd Class
+Mr Assaf Gerios thamah (victim); age=21.0; class=3rd Class; job=Farm Labourer
+Mr Stanio Gheorgheff (victim); class=3rd Class; job=General Labourer
+Mr Jacob William Gibbons (survivor); age=36.0; class=Victualling; job=Saloon Steward
+Miss Dorothy Winifred Gibson (survivor); age=22.0; class=1st Class
+Mrs Pauline Caroline Gibson (survivor); age=44.0; class=1st Class
+Miss Amalie "Emily" Henriette Gieger (survivor); age=35.0; class=1st Class; group=Servant; job=Personal Maid
+Mr Victor Gaitan Andrea Giglio (victim); age=23.0; class=1st Class; group=Servant; job=Servant
+Sig. Vincenzo Pio Gilardino (victim); age=31.0; class=A la Carte; job=Waiter
+Mr William Gilbert (victim); age=47.0; class=2nd Class
+Mr Edgar Giles (victim); age=21.0; class=2nd Class; job=Carpenter / Joiner
+Mr Frederick Edward Giles (victim); age=20.0; class=2nd Class; job=Carpenter / Joiner
+Mr Henry Robert Giles (survivor); age=32.0; class=Engine; job=Fireman
+Mr John Robert Giles (victim); age=33.0; class=Victualling; job=Baker
+Mr Ralph Giles (victim); age=24.0; class=2nd Class
+Mr Eliezer Gilinski (victim); age=22.0; class=3rd Class; job=Locksmith
+Mr John William Gill (victim); age=24.0; class=2nd Class; job=Chauffeur
+Mr Joseph Stanley Gill (victim); age=34.0; class=Victualling; job=Bed Room Steward
+Mr Patrick Gill (victim); age=38.0; class=Victualling; job=Ship's Cook
+Mr William Henry Gillespie (victim); age=34.0; class=2nd Class; job=Clerk
+Miss Mary Katherine "Katie" Gilnagh (survivor); age=17.0; class=3rd Class
+Mr Hans Kristensen Givard (victim); age=30.0; class=2nd Class
+Miss Mary Agatha Glynn (survivor); age=19.0; class=3rd Class
+Mr George Godley (survivor); age=34.0; class=Engine; job=Fireman
+Mr Frederick Walter Godwin (victim); age=34.0; class=Engine; job=Greaser
+Mrs Katherine Gold (survivor); age=42.0; class=Victualling; job=Stewardess
+Mrs Nella Goldenberg (survivor); age=40.0; class=1st Class
+Mr Samuel L. Goldenberg (survivor); age=47.0; class=1st Class
+Mr M. W. Golder (victim); age=32.0; class=Engine; job=Fireman
+Mr George B. Goldschmidt (victim); age=71.0; class=1st Class
+Mrs Emily Alice Goldsmith (survivor); age=31.0; class=3rd Class
+Mr Frank John Goldsmith (victim); age=33.0; class=3rd Class; job=Turner
+Master Frank John William Goldsmith (survivor); age=9.0; class=3rd Class
+Mr Nathan Goldsmith (victim); age=41.0; class=3rd Class; job=Shoemaker
+Mr F. Gollop (victim); age=28.0; class=Victualling; job=Assistant Passage Cook
+Mrs Augusta Goodwin (victim); age=43.0; class=3rd Class
+Mr Charles Edward Goodwin (victim); age=14.0; class=3rd Class; job=Scholar
+Mr Frederick Joseph Goodwin (victim); age=42.0; class=3rd Class; job=Engineer
+Master Harold Victor Goodwin (victim); age=9.0; class=3rd Class
+Miss Jessie Allis Goodwin (victim); age=10.0; class=3rd Class
+Miss Lillian Amy Goodwin (victim); age=16.0; class=3rd Class; job=Servant
+Master Sidney Leslie Goodwin (victim); age=1.0; class=3rd Class
+Master William Frederick Goodwin (victim); age=11.0; class=3rd Class
+Mr J. Gordon (victim); age=29.0; class=Engine; job=Trimmer
+Mr Frank Goree (victim); age=42.0; class=Engine; job=Greaser
+Mr Arthur James Goshawk (victim); age=31.0; class=Victualling; job=3rd Saloon Steward
+Mr Bertram James Gosling (victim); age=22.0; class=Engine; job=Trimmer
+Mr S. Gosling (victim); age=26.0; class=Engine; job=Trimmer
+Colonel Archibald Gracie (survivor); age=53.0; class=1st Class; job=Writer
+Mr Ernest Edward Gradidge (victim); age=22.0; class=Engine; job=Fireman
+Mrs Edith Graham (survivor); age=59.0; class=1st Class
+Mr George Edward Graham (victim); age=38.0; class=1st Class; job=Sales Manager
+Miss Margaret Edith Graham (survivor); age=19.0; class=1st Class
+Mr Thomas G. Graham (survivor); age=28.0; class=Engine; job=Fireman
+Mr George Green (victim); age=20.0; class=Engine; job=Trimmer
+Mr George Henry Green (victim); age=40.0; class=3rd Class; job=Farrier
+Mr Samuel Greenberg (victim); age=52.0; class=2nd Class
+Mrs Blanche Greenfield (survivor); age=45.0; class=1st Class
+Mr William Bertram Greenfield (survivor); age=23.0; class=1st Class
+Mr David Gregory (victim); age=40.0; class=Engine; job=Greaser
+Miss Mary Gregson (survivor); age=44.0; class=Victualling; job=Stewardess
+Mr Daniel Danielsen Grnnestad (victim); age=32.0; class=3rd Class; job=General Labourer
+Mr Grald Grosclaude (victim); age=24.0; class=A la Carte; job=Waiter
+Mr Robert Guest (victim); age=23.0; class=3rd Class; job=General Labourer
+Mr Benjamin Guggenheim (victim); age=46.0; class=1st Class; job=Businessman
+Mr George Gumery (victim); age=24.0; class=Engine; job=Mess Steward
+Mr Joseph Alfred Gunn (victim); age=28.0; class=Victualling; job=Assistant Saloon Steward
+Mr Alfred Ossian Gustafsson (victim); age=19.0; class=3rd Class; job=General Labourer
+Mr Anders Vilhelm Gustafsson (victim); age=37.0; class=3rd Class; job=General Labourer
+Mr Johan Birger Gustafsson (victim); age=28.0; class=3rd Class
+Mr Karl Gideon Gustafsson (victim); age=19.0; class=3rd Class; job=General Labourer
+Mr Elgar John Guy (survivor); age=28.0; class=Victualling; job=Boots
+Mr William Logan Gwynn (victim); age=37.0; class=Victualling; group=Postal Clerk; job=Postal Clerk
+Miss Aloisia Haas (victim); age=24.0; class=3rd Class; job=General Labourer
+Mr John Haggan (survivor); age=35.0; class=Engine; job=Fireman
+Mr Ingvald Olai Olsen Hagland (victim); age=28.0; class=3rd Class; job=General Labourer
+Mr Konrad Mathias Reiersen Hagland (victim); age=19.0; class=3rd Class; job=General Labourer
+Mr Albert Haines (survivor); age=31.0; class=Deck; job=Boatswain Mate
+Mrs Elin Matilda Hakkarainen (survivor); age=24.0; class=3rd Class
+Mr Pekka Pietari Hakkarainen (victim); age=28.0; class=3rd Class; job=General Labourer
+Mr Reginald Hale (victim); age=30.0; class=2nd Class; job=Gardener
+Mr Richard Halford (survivor); age=22.0; class=Victualling; job=Steward
+Mr F. A. J. Hall (victim); age=38.0; class=Victualling; job=Scullion
+Mr J. Hall (victim); age=32.0; class=Engine; job=Fireman
+Mr George Alexander Hallett (victim); age=22.0; class=Engine; job=Fireman
+Mr Ernest William Hamblyn (victim); age=41.0; class=Victualling; job=Bed Room Steward
+Mr Ernest Hamilton (victim); age=25.0; class=Victualling; job=Assistant Smoke Room Steward
+Mr Lon Jrome Hampe (victim); age=19.0; class=3rd Class; job=Painter & Decorator
+Mr Bernard Hands (victim); age=53.0; class=Engine; job=Fireman
+Mr Boulos Hanna (victim); age=18.0; class=3rd Class; job=General Labourer
+Mr Mansour Hanna (victim); age=35.0; class=3rd Class
+Mr Borak ("Hannah Assi Borah") Hannah (survivor); age=27.0; class=3rd Class
+Mr George Hannam (victim); age=30.0; class=Engine; job=Fireman
+Mr Claus Peter Hansen (victim); age=41.0; class=3rd Class; job=Barber
+Mr Henrik Juul Hansen (victim); age=26.0; class=3rd Class; job=Farmer
+Mr Henry Damsgaard Hansen (victim); age=21.0; class=3rd Class; job=Manufacturer
+Mrs Jennie Louise Hansen (survivor); age=45.0; class=3rd Class
+Mr William H. Harbeck (victim); age=44.0; class=2nd Class; job=Cinematographer
+Mrs Dorothy Harder (survivor); age=21.0; class=1st Class
+Mr George Achilles Harder (survivor); age=25.0; class=1st Class; job=Businessman
+Mr William Harder (survivor); age=39.0; class=Deck; job=Window Cleaner
+Mr A. Harding (victim); age=20.0; class=Victualling; job=Assistant Pantry Steward
+Mr Reginald Hardwick (survivor); age=21.0; class=Victualling; job=Kitchen Porter
+Mr John T. Hardy (survivor); age=37.0; class=Victualling; job=Chief 2nd Class Steward
+Miss Catherine "Kate" Hargadon (victim); age=17.0; class=3rd Class
+Miss Alice Phoebe Harknett (victim); age=21.0; class=3rd Class; job=Servant
+Miss Annie Jessie Harper (survivor); age=6.0; class=2nd Class
+Mr Henry Sleeper Harper (survivor); age=48.0; class=1st Class; job=Of Independent Means
+Rev. John Harper (victim); age=39.0; class=2nd Class; job=Priest / Minister
+Mrs Myna Harper (survivor); age=49.0; class=1st Class
+Mr Charles Henry Harrington (victim); age=37.0; class=1st Class; group=Servant; job=Servant
+Mr Amos Fred Harris (victim); age=21.0; class=Engine; job=Trimmer
+Mr Charles William Harris (victim); age=19.0; class=Victualling; job=Saloon Steward
+Mr Clifford Henry Harris (victim); age=16.0; class=Victualling; job=Bell Boy
+Mr Edward Harris (victim); age=18.0; class=Victualling; job=Assistant Pantryman Steward
+Mr Edward Harris (victim); age=28.0; class=Engine; job=Fireman
+Mr Frederick Harris (survivor); age=39.0; class=Engine; job=Fireman
+Mr George Harris (survivor); age=62.0; class=2nd Class
+Mr Henry Birkhardt Harris (victim); age=45.0; class=1st Class; job=Theatre Manager
+Mrs Irene Harris (survivor); age=35.0; class=1st Class
+Mr Walter Harris (victim); age=30.0; class=2nd Class
+Mr Aragon Drummond Harrison (survivor); age=40.0; class=Victualling; job=Saloon Steward
+Mr Norman E. Harrison (victim); age=38.0; class=Engine; job=Junior 2nd. Engineer
+Mr William Henry Harrison (victim); age=45.0; class=1st Class; group=Servant; job=Secretary
+Mr Benjamin Hart (victim); age=47.0; class=2nd Class; job=Builder
+Mrs Esther Ada Hart (survivor); age=48.0; class=2nd Class
+Miss Eva Miriam Hart (survivor); age=7.0; class=2nd Class
+Mr Henry Hart (victim); age=28.0; class=3rd Class; job=General Labourer
+Mr James Hart (victim); age=49.0; class=Engine; job=Fireman
+Mr John Edward Hart (survivor); age=31.0; class=Victualling; job=Steward
+Mr Wallace Henry Hartley (victim); age=33.0; class=2nd Class; group=Musician; job=Musician
+Mr Frederick Hartnell (survivor); age=21.0; class=Victualling; job=Saloon Steward
+Mr Herbert Gifford Harvey (victim); age=34.0; class=Engine; job=Junior Assistant 2nd. Engineer
+Mr James Haslin (victim); age=45.0; class=Engine; job=Trimmer
+Mr Hammad Hassab (survivor); age=27.0; class=1st Class; group=Servant; job=Servant
+Mr Houssein Mohamed Hassan abilmona (victim); age=11.0; class=3rd Class
+Mr Hugh Hatch (victim); age=23.0; class=Victualling; job=Scullion
+Mr James Hawkesworth (victim); age=38.0; class=Victualling; job=Saloon Steward
+Mr William Walter Hawkesworth (victim); age=43.0; class=Victualling; job=Deck Steward
+Mr Walter James Hawksford (survivor); age=45.0; class=1st Class; job=Sales Manager
+Mr Charles Melville Hays (victim); age=55.0; class=1st Class; job=Businessman
+Mrs Clara Jennings Hays (survivor); age=52.0; class=1st Class
+Miss Margaret Bechstein Hays (survivor); age=24.0; class=1st Class
+Mr Arthur Hayter (victim); age=44.0; class=Victualling; job=Bed Room Steward
+Mr A. Head (victim); age=24.0; class=Engine; job=Fireman
+Mr Christopher Head (victim); age=42.0; class=1st Class; job=Politician
+Miss Hanora "Nora" Healy (survivor); age=29.0; class=3rd Class
+Mr William Albert Hebb (survivor); age=22.0; class=Engine; job=Trimmer
+Mr Oskar Arvid Hedman (survivor); age=27.0; class=3rd Class; job=Settler Recruiter
+Mr Ling Hee (survivor); age=24.0; class=3rd Class; job=Seaman
+Miss Hanora "Nora" Hegarty (victim); age=18.0; class=3rd Class
+Miss Laina Heikkinen (survivor); age=26.0; class=3rd Class
+Mr Joseph Heinen (victim); age=30.0; class=Victualling; job=Saloon Steward
+Miss Wendla Maria Heininen (victim); age=23.0; class=3rd Class; job=Servant
+Miss Hilda Maria Hellstrm (survivor); age=22.0; class=3rd Class
+Mr Samuel Emest Hemming (survivor); age=43.0; class=Deck; job=Lamp Trimmer
+Mr Ignjac Hendekovic (victim); age=28.0; class=3rd Class; job=General Labourer
+Mr Charles Osker Hendrickson (survivor); age=28.0; class=Engine; job=Leading Fireman
+Mr Edward Martin Hendy (victim); age=39.0; class=Victualling; job=Saloon Steward
+Miss Jenny Lovisa Henriksson (victim); age=28.0; class=3rd Class; job=Servant
+Miss Bridget Delia Henry (victim); age=21.0; class=3rd Class
+Mr Herbert George Ernest Hensford (victim); age=26.0; class=Victualling; job=Assistant Butcher
+Miss Alice Herman (survivor); age=23.0; class=2nd Class
+Mrs Jane Herman (survivor); age=48.0; class=2nd Class
+Miss Kate Herman (survivor); age=23.0; class=2nd Class
+Mr Samuel Herman (victim); age=49.0; class=2nd Class; job=Farmer
+Mr John Henry Hesketh (victim); age=33.0; class=Engine; job=Engineer
+Mr Thomas Hewett (victim); age=37.0; class=Victualling; job=Bed Room Steward
+Mrs Mary Dunbar Hewlett (survivor); age=56.0; class=2nd Class
+Mr Robert Hichens (survivor); age=29.0; class=Deck; job=Quartermaster
+Mr Leonard Mark Hickman (victim); age=24.0; class=2nd Class
+Mr Lewis Hickman (victim); age=30.0; class=2nd Class
+Mr Stanley George Hickman (victim); age=20.0; class=2nd Class
+Mr H. P. Hill (victim); age=36.0; class=Victualling; job=Steward
+Mr James Hill (victim); age=25.0; class=Engine; job=Trimmer
+Mr James Colston Hill (victim); age=38.0; class=Victualling; job=Bed Room Steward
+Mr Herbert Henry Hilliard (victim); age=44.0; class=1st Class; job=Buyer
+Miss Marta Hiltunen (victim); age=18.0; class=2nd Class
+Mr George Hinckley (victim); age=35.0; class=Victualling; job=Bath Steward
+Mr William Edward Hine (victim); age=36.0; class=Victualling; job=Baker
+Mr Stephen William Hinton (victim); age=30.0; class=Engine; job=Trimmer
+Mr William Edward Hipkins (victim); age=55.0; class=1st Class; job=Manufacturer
+Mrs Ida Sophia Hippach (survivor); age=44.0; class=1st Class
+Miss Jean Gertrude Hippach (survivor); age=17.0; class=1st Class
+Mrs Helga Elisabeth Lindqvist Hirvonen (survivor); age=22.0; class=3rd Class
+Miss Hildur Elisabeth Hirvonen (survivor); age=2.0; class=3rd Class
+Mr S. Hiscock (victim); age=22.0; class=Victualling; job=Plate Steward
+Miss Velin Hman (survivor); age=22.0; class=3rd Class
+Mrs Anna Hmlinen (survivor); age=23.0; class=2nd Class
+Master Viljo Unto Johannes Hmlinen (survivor); age=0.666666666667; class=2nd Class
+Mr Leonard James Hoare (victim); age=16.0; class=Victualling; job=Saloon Steward
+Mrs Elizabeth "Eliza" Hocking (survivor); age=54.0; class=2nd Class
+Miss Ellen "Nellie" Hocking (survivor); age=20.0; class=2nd Class
+Mr Richard George Hocking (victim); age=23.0; class=2nd Class; job=Baker
+Mr Samuel James Metcalfe Hocking (victim); age=36.0; class=2nd Class; job=Painter & Decorator
+Mr Charles Hodge (victim); age=29.0; class=Engine; job=Senior Assistant 3rd. Engineer
+Mr Henry Price Hodges (victim); age=50.0; class=2nd Class; job=Musical Instrument Vendor
+Mr W. Hodges (victim); age=26.0; class=Engine; job=Fireman
+Mr Leonard Hodgkinson (victim); age=46.0; class=Engine; job=Senior 4th. Engineer
+Mrs Anna Louisa Hogeboom (survivor); age=51.0; class=1st Class; job=Of Independent Means
+Mr Charles William Hogg (victim); age=37.0; class=Victualling; job=Bed Room Steward
+Mr George Alfred Hogg (survivor); age=29.0; class=Deck; job=Lookout
+Mr E. Hogue (victim); age=22.0; class=Victualling; job=Plate Steward
+Mrs Annie Margaret Hold (survivor); age=29.0; class=2nd Class
+Mr Stephen Hold (victim); age=44.0; class=2nd Class; job=Clerk
+Mr Thomas Holland (victim); age=28.0; class=Victualling; job=Reception Steward
+Mr Sidney Holloway (victim); age=20.0; class=Victualling; job=Clothes Presser
+Mr John Fredrik Alexander Holm (victim); age=43.0; class=3rd Class; job=Farmer
+Mr Harry Holman (victim); age=27.0; class=Deck; job=Able Seaman
+Mr Johan Martin Holthen (victim); age=28.0; class=3rd Class; job=Seaman
+Mr Alexander Oskar Holverson (victim); age=42.0; class=1st Class
+Mrs Mary Aline Holverson (survivor); age=35.0; class=1st Class
+Mr Harry Homer (survivor); age=40.0; class=1st Class; job=Gambler
+Miss Eliina Honkanen (survivor); age=27.0; class=3rd Class
+Mr Ambrose Jr Hood (victim); age=22.0; class=2nd Class
+Mr Roland Hopgood (victim); age=22.0; class=Engine; job=Fireman
+Mr F. Hopkins (victim); age=16.0; class=Victualling; job=Plate Steward
+Mr Robert John Hopkins (survivor); age=40.0; class=Deck; job=Able Seaman
+Mr John Horgan (victim); age=22.0; class=3rd Class; job=General Labourer
+Mr Albert Edward James Horswill (survivor); age=33.0; class=Deck; job=Able Seaman
+Mr Richard Hosgood (victim); age=22.0; class=Engine; job=Fireman
+Mr George Fox Hosking (victim); age=36.0; class=Engine; job=Senior 3rd. Engineer
+Mr Masabumi Hosono (survivor); age=41.0; class=2nd Class; job=Civil Servant
+Mr William House (victim); age=38.0; class=Victualling; job=Saloon Steward
+Mr Benjamin Howard (victim); age=63.0; class=2nd Class; job=Retired
+Mrs Ellen Truelove Howard (victim); age=60.0; class=2nd Class
+Miss May Elizabeth Howard (survivor); age=27.0; class=3rd Class; job=Laundry Worker
+Mr Arthur Albert Howell (victim); age=31.0; class=Victualling; job=Saloon Steward
+Mr Frederick Maxfield Hoyt (survivor); age=38.0; class=1st Class
+Mrs Jane Anne Hoyt (survivor); age=31.0; class=1st Class
+Mr William Fisher Hoyt (victim); age=42.0; class=1st Class; job=Businessman
+Mr William Thomas Hughes (victim); age=36.0; class=Victualling; job=Steward
+Mr Adolf Mathias Nicolai Olsen Humblen (victim); age=42.0; class=3rd Class; job=Farmer
+Mr Frederick Humby (victim); age=16.0; class=Victualling; job=Plate Steward
+Mr John Law Hume (victim); age=21.0; class=2nd Class; group=Musician; job=Musician
+Mr Sidney James Humphreys (survivor); age=48.0; class=Deck; job=Quartermaster
+Mr Thomas Humphrey Humphreys (victim); age=31.0; class=Victualling; job=Assistant Saloon Steward
+Mr Albert Sylvanus Hunt (survivor); age=23.0; class=Engine; job=Trimmer
+Mr George Henry Hunt (victim); age=33.0; class=2nd Class; job=Gardener
+Mr Tom Hunt (victim); age=27.0; class=Engine; job=Fireman
+Mr Charles John Hurst (victim); age=35.0; class=Engine; job=Fireman
+Mr Walter Hurst (survivor); age=23.0; class=Engine; job=Fireman
+Mr James Hutchinson (victim); age=28.0; class=Victualling; job=Vegetable. Cook
+Mr John Hall Hutchinson (victim); age=26.0; class=Deck; job=Carpenter / Joiner
+Mr Leo James Hyland (survivor); age=19.0; class=Victualling; job=Steward
+Mr Abraham Joseph Hyman (survivor); age=34.0; class=3rd Class; job=Framer
+Mr Yousseff Ibrahim shawah (victim); age=33.0; class=3rd Class
+Miss Rose Amlie Icard (survivor); age=39.0; class=1st Class; group=Servant; job=Personal Maid
+Mr Harry John Ide (victim); age=32.0; class=Victualling; job=Bed Room Steward
+Miss Bertha Ilett (survivor); age=17.0; class=2nd Class
+Mr Ylio Ilieff (victim); age=32.0; class=3rd Class; job=General Labourer
+Miss Ida Livija Ilmakangas (victim); age=27.0; class=3rd Class; job=Servant
+Miss Pieta Sofia Ilmakangas (victim); age=25.0; class=3rd Class; job=Servant
+Mr George Ingram (victim); age=20.0; class=Engine; job=Trimmer
+Mr Henry Ingrouille (victim); age=21.0; class=Victualling; job=Steward
+Mr William Ernest Ings (victim); age=20.0; class=Victualling; job=Scullion
+Mr T. Instance (victim); age=33.0; class=Engine; job=Fireman
+Miss Ann Elizabeth Isham (victim); age=50.0; class=1st Class
+Mr Joseph Bruce Ismay (survivor); age=49.0; class=1st Class; job=Shipowner
+Mr Kanio Ivanoff (victim); age=20.0; class=3rd Class; job=General Labourer
+Miss Hileni Jabbur (zabour) (victim); age=16.0; class=3rd Class; job=Housekeeper
+Miss Thamine Jabbur (zabour) (victim); age=19.0; class=3rd Class; job=Housekeeper
+Mr Cecil Jackson (victim); age=22.0; class=Victualling; job=Boots
+Mrs Amy Frances Christy Jacobsohn (survivor); age=24.0; class=2nd Class
+Mr Sidney Samuel Jacobsohn (victim); age=40.0; class=2nd Class
+Mr John Jacobson (victim); age=29.0; class=Engine; job=Fireman
+Mr Joseph Jago (victim); age=27.0; class=Engine; job=Greaser
+Mr Henri Marie Jaillet (victim); age=28.0; class=A la Carte; job=Pastry Cook
+Mr Ivan Jal?evac (survivor); age=29.0; class=3rd Class
+Mr Thomas James (victim); age=27.0; class=Engine; job=Fireman
+Mr William Frank Janaway (victim); age=35.0; class=Victualling; job=Bed Room Steward
+Mr Claude Marie Janin (victim); age=29.0; class=A la Carte; job=Soup Cook
+Mr Carl Olof Jansson (survivor); age=21.0; class=3rd Class
+Mr Jos Neto Jardim (victim); age=21.0; class=3rd Class; job=General Labourer
+Mr Denzil John Jarvis (victim); age=47.0; class=2nd Class; job=Engineer
+Mr William Alfred Jeffery (victim); age=28.0; class=A la Carte; job=Controller
+Mr Clifford Thomas Jefferys (victim); age=24.0; class=2nd Class
+Mr Ernest Wilfred Jefferys (victim); age=22.0; class=2nd Class
+Mr Stephen Curnow Jenkin (victim); age=32.0; class=2nd Class; job=Miner
+Mr Harry Jenner (victim); age=41.0; class=Victualling; job=Saloon Steward
+Mr Charles Valdemar Jensen (victim); age=25.0; class=Victualling; job=Saloon Steward
+Mr Hans Peder Jensen (victim); age=20.0; class=3rd Class
+Mr Niels Peder ("Rasmus") Jensen (victim); age=48.0; class=3rd Class; job=Farmer
+Mr Svend Lauritz Jensen (victim); age=17.0; class=3rd Class; job=Farmer
+Miss Annie Jane Jermyn (survivor); age=26.0; class=3rd Class
+Mrs Marie Marthe Jerwan (survivor); age=23.0; class=2nd Class
+Miss Violet Constance Jessop (survivor); age=24.0; class=Victualling; job=Stewardess
+Mr Archie Jewell (survivor); age=23.0; class=Deck; job=Lookout
+Mr Nils Hilding Jnsson (victim); age=27.0; class=3rd Class; job=General Labourer
+Mr N. Joas (victim); age=38.0; class=Engine; job=Fireman
+Mr Bernt Johannes Johannesen (survivor); age=29.0; class=3rd Class
+Mr Jakob Alfred Johanson (victim); age=34.0; class=3rd Class; job=General Labourer
+Mr Oskar Leander Johansson palmquist (survivor); age=26.0; class=3rd Class
+Mr Erik Johansson (victim); age=22.0; class=3rd Class; job=General Labourer
+Mr Gustaf Joel Johansson (victim); age=33.0; class=3rd Class
+Mr Karl Johan Johansson (victim); age=31.0; class=3rd Class
+Mr Nils Johansson (victim); age=29.0; class=3rd Class; job=General Labourer
+Mr August Johnson (victim); age=49.0; class=3rd Class; job=Seaman
+Miss Eleanor Ileen Johnson (survivor); age=1.0; class=3rd Class
+Mrs Elisabeth Vilhelmina Johnson (survivor); age=26.0; class=3rd Class
+Master Harold Theodor Johnson (survivor); age=4.0; class=3rd Class
+Mr Malkolm Joackim Johnson (victim); age=33.0; class=3rd Class; job=General Labourer
+Mr William Cahoone Jr. Johnson (victim); age=19.0; class=3rd Class; job=Seaman
+Mr Andrew Emslie Johnston (victim); age=35.0; class=3rd Class; job=Plumber
+Miss Catherine Nellie Johnston (victim); age=7.0; class=3rd Class
+Mrs Eliza Johnston (victim); age=34.0; class=3rd Class
+Mr James Johnston (survivor); age=41.0; class=Victualling; job=Saloon Steward
+Master William Andrew Johnston (victim); age=8.0; class=3rd Class
+Mr Albert Jones (victim); age=17.0; class=Victualling; job=Saloon Steward
+Mr Arthur Ernest Jones (victim); age=38.0; class=Victualling; job=Plate Steward
+Mr Charles Cresson Jones (victim); age=46.0; class=1st Class; job=Estate Manager
+Mr H. Jones (victim); age=29.0; class=Victualling; job=Roast Cook
+Mr Reginald V. Jones (victim); age=20.0; class=Victualling; job=Saloon Steward
+Mr Thomas William Jones (survivor); age=32.0; class=Deck; job=Able Seaman
+Mr Lalio Jonkoff (victim); age=23.0; class=3rd Class; job=General Labourer
+Mr Carl Jonsson (survivor); age=25.0; class=3rd Class; job=General Labourer
+Mr Elias Joseph (shahin) (victim); age=39.0; class=3rd Class
+Mr Georges Jules Jouannault (victim); age=24.0; class=A la Carte; job=Assistant Sauce Cook
+Mr Charles John Joughin (survivor); age=32.0; class=Victualling; job=Chief Baker
+Mr Charles E. Judd (survivor); age=32.0; class=Engine; job=Fireman
+Mr James Jukes (victim); age=35.0; class=Engine; job=Greaser
+Mr Henry Forbes Julian (victim); age=50.0; class=1st Class; job=Metallurgist
+Mr Boykett Herbert Jupe (victim); age=30.0; class=Engine; job=Electrician
+Mr Eiriik Jussila (survivor); age=32.0; class=3rd Class
+Miss Katriina Jussila (victim); age=20.0; class=3rd Class; job=Servant
+Miss Mari Aina Jussila (victim); age=21.0; class=3rd Class; job=Servant
+Mr Nikolai Erland Kallio (victim); age=17.0; class=3rd Class; job=General Labourer
+Mr Johannes Halvorsen Kalvik (victim); age=21.0; class=3rd Class; job=General Labourer
+Mrs Miriam Kantor (survivor); age=24.0; class=2nd Class
+Mr Sinai Kantor (victim); age=34.0; class=2nd Class
+Mr Milan Karajic (victim); age=30.0; class=3rd Class; job=General Labourer
+Mr Einar Gervasius Karlsson (survivor); age=21.0; class=3rd Class; job=Military
+Mr Julius Konrad Eugen Karlsson (victim); age=33.0; class=3rd Class; job=Engineer
+Mr Nils August Karlsson (victim); age=22.0; class=3rd Class; job=Farmer
+Mrs Claire Karnes (victim); age=28.0; class=2nd Class
+Mr Franz Karun (survivor); age=39.0; class=3rd Class; job=Hotelier
+Miss Manca Karun (survivor); age=4.0; class=3rd Class
+Mr F. Kasper (survivor); age=40.0; class=Engine; job=Fireman
+Mr Fared Kassem houssein (victim); age=18.0; class=3rd Class; job=Farmer
+Mr Vasilios G. Katavelos (victim); age=19.0; class=3rd Class; job=Farmer
+Mr Andrew "Andy" Keane (victim); age=23.0; class=3rd Class; job=Farm Labourer
+Mr Daniel Keane (victim); age=35.0; class=2nd Class
+Miss Nora Agnes Keane (survivor); age=46.0; class=2nd Class
+Mr Charles Henry Kearl (victim); age=43.0; class=Engine; job=Greaser
+Mr George Edward Kearl (victim); age=24.0; class=Engine; job=Trimmer
+Mr Arthur Keefe (victim); age=39.0; class=3rd Class; job=Farmer
+Mr Percy Edward Keen (survivor); age=28.0; class=Victualling; job=Saloon Steward
+Mr Edwin Herbert Keeping (victim); age=33.0; class=1st Class; group=Servant; job=Servant
+Mr Thomas Kelland (victim); age=21.0; class=Victualling; job=Library Steward
+Miss Anna Katherine Kelly (survivor); age=20.0; class=3rd Class
+Mrs Fanny Maria Kelly (survivor); age=45.0; class=2nd Class
+Mr James Kelly (victim); age=19.0; class=3rd Class; job=Painter & Decorator
+Mr James Kelly (victim); age=44.0; class=3rd Class; job=Farm Labourer
+Mr James Kelly (victim); age=44.0; class=Engine; job=Greaser
+Miss Mary Kelly (survivor); age=22.0; class=3rd Class
+Mr William Kelly (victim); age=23.0; class=Engine; job=Assistant Electrician
+Mr George Kemish (survivor); age=24.0; class=Engine; job=Fireman
+Mr Thomas Hulman Kemp (victim); age=43.0; class=Engine; job=Extra Assistant 4th Engineer (Refrigeration)
+Mr Frederick Kenchenten (victim); age=37.0; class=Engine; job=Greaser
+Mr John Kennedy (survivor); age=24.0; class=3rd Class; job=Farm Labourer
+Mr Charles Kennell (victim); age=30.0; class=Victualling; job=Hebrew Cook
+Mr Edward Austin Kent (victim); age=58.0; class=1st Class; job=Architect
+Mr Frederick R. Kenyon (victim); age=41.0; class=1st Class
+Mrs Marion Kenyon (survivor); age=31.0; class=1st Class
+Mr Augustus Kenzler (victim); age=43.0; class=Engine; job=Storekeeper
+Mr William Thomas Kerley (victim); age=28.0; class=Victualling; job=Assistant Saloon Steward
+Mr Thomas Kerr (victim); age=26.0; class=Engine; job=Fireman
+Mr Henry Ketchley (victim); age=30.0; class=Victualling; job=Saloon Steward
+Mr Betros Khalil (victim); age=25.0; class=3rd Class; job=Farm Labourer
+Mrs Zahie "Maria" Khalil (victim); age=20.0; class=3rd Class; job=Farm Labourer
+Mr James W. Kieran (victim); age=32.0; class=Victualling; job=Chief 3rd Class Steward
+Mr Michael Kieran (victim); age=31.0; class=Victualling; job=Storekeeper
+Mr John Kiernan (victim); age=25.0; class=3rd Class; job=General Labourer
+Mr Philip Kiernan (victim); age=22.0; class=3rd Class; job=General Labourer
+Mr Thomas Kilgannon (victim); age=22.0; class=3rd Class; job=Farm Labourer
+Mr Edwin Nelson Jr. Kimball (survivor); age=42.0; class=1st Class
+Mrs Gertrude Kimball (survivor); age=45.0; class=1st Class
+Mr Alfred King (victim); age=18.0; class=Victualling; job=Lift Steward
+Mr Ernest Waldron King (victim); age=28.0; class=Victualling; job=Clerk
+Mr G. King (victim); age=20.0; class=Victualling; job=Scullion
+Mr Thomas W. King (victim); age=43.0; class=Deck; job=Master-at-arms
+Mr William Ford Kingscote (victim); age=42.0; class=Victualling; job=Saloon Steward
+Mr Anton Kink (survivor); age=29.0; class=3rd Class
+Miss Maria Kink (victim); age=22.0; class=3rd Class
+Mr Vincenz Kink (victim); age=26.0; class=3rd Class; job=Magazineer
+Mrs Luise Kink-heilmann (survivor); age=26.0; class=3rd Class
+Miss Luise Gretchen Kink-heilmann (survivor); age=4.0; class=3rd Class
+Mr L. Kinsella (victim); age=30.0; class=Engine; job=Fireman
+Mr Thomas Benjamin Kirkaldy (victim); age=39.0; class=Victualling; job=Bed Room Steward
+Mr J. Kirkham (victim); age=39.0; class=Engine; job=Greaser
+Fr Charles Leonard Kirkland (victim); age=52.0; class=2nd Class; job=Priest / Minister
+Mr Arthur Alfred Kitching (victim); age=30.0; class=Victualling; job=Saloon Steward
+Mr Herman Klaber (victim); class=1st Class; job=Businessman
+Miss Gertrud Emilia Klasn (victim); age=1.0; class=3rd Class
+Mrs Hulda Kristina Eugenia Klasn (victim); age=36.0; class=3rd Class; job=Housewife
+Mr Klas Albin Klasn (victim); age=18.0; class=3rd Class; job=Farm Labourer
+Mr Herbert Klein (victim); age=33.0; class=Victualling; job=Barber
+Mr George Knight (survivor); age=44.0; class=Victualling; job=Saloon Steward
+Mr Leonard George Knight (victim); age=21.0; class=Victualling; job=Steward
+Mr Robert J. Knight (victim); age=39.0; class=2nd Class; group=H&W Guarantee Group; job=Fitter
+Mr Thomas Knowles (survivor); age=42.0; class=Engine; job=Fireman Messman
+Mr Theodor Kraeff (victim); class=3rd Class; job=General Labourer
+Mr Neshan Krekorian (survivor); age=25.0; class=3rd Class; job=General Labourer
+Miss Emilie Kreuchen (survivor); age=29.0; class=1st Class; group=Servant; job=Personal Maid
+Mr Georges Alexandre Krins (victim); age=23.0; class=2nd Class; group=Musician; job=Musician
+Mr Simon Kutscher (lithman) (victim); age=26.0; class=3rd Class; job=Baker
+Mr Johan Henrik Johannesson Kvillner (victim); age=31.0; class=2nd Class; job=Mechanical Engineer
+Mr Bert W. Lacey (victim); age=21.0; class=Victualling; job=Assistant Saloon Steward
+Mr Sarkis Lahoud ishaq mowad (victim); age=30.0; class=3rd Class; job=General Labourer
+Mrs Anna Amelia Lahtinen (victim); age=34.0; class=2nd Class
+Fr William Lahtinen (victim); age=35.0; class=2nd Class; job=Priest / Minister
+Mr T. E. Lahy (victim); age=32.0; class=Engine; job=Fireman
+Miss Kristina Sofia Laitinen (victim); age=37.0; class=3rd Class; job=Housekeeper
+Mr William Lake (victim); age=35.0; class=Victualling; job=Saloon Steward
+Mr Kristo Laleff (victim); age=23.0; class=3rd Class; job=General Labourer
+Mr Ali Lam (survivor); age=38.0; class=3rd Class; job=Seaman
+Mr Len Lam (victim); age=23.0; class=3rd Class; job=Seaman
+Mr John Joseph Lamb (victim); age=30.0; class=2nd Class; job=Gentleman
+Mr Fletcher Fellows Lambert-williams (victim); class=1st Class; job=Businessman
+Miss Aurora Adelia Landergren (survivor); age=22.0; class=3rd Class
+Mr Albert Edward Lane (victim); age=34.0; class=Victualling; job=Saloon Steward
+Mr Patrick Lane (victim); age=16.0; class=3rd Class; job=Farm Labourer
+Mr Fang Lang (survivor); age=32.0; class=3rd Class; job=Seaman
+Mr Joseph Philippe Lemercier Laroche (victim); age=25.0; class=2nd Class; job=Engineer
+Mrs Juliette Marie Louise Laroche (survivor); age=22.0; class=2nd Class
+Miss Louise Laroche (survivor); age=1.0; class=2nd Class
+Miss Simonne Marie Anne Andre Laroche (survivor); age=3.0; class=2nd Class
+Mr August Viktor Larsson (victim); age=29.0; class=3rd Class; job=General Labourer
+Mr Bengt Edvin Larsson (victim); age=29.0; class=3rd Class; job=General Labourer
+Mr Edvard A. Larsson-rondberg (victim); age=22.0; class=3rd Class; job=General Labourer
+Mr Andrew L Latimer (victim); age=55.0; class=Victualling; job=Chief Steward
+Miss Bessie Lavington (survivor); age=38.0; class=Victualling; job=Stewardess
+Mr Arthur Lawrence (victim); age=35.0; class=Victualling; job=Saloon Steward
+Dr Alice Leader (survivor); age=49.0; class=1st Class; job=Doctor
+Mr Archibald Leader (victim); age=22.0; class=Victualling; job=Confectioner
+Mrs Elizabeth May Leather (survivor); age=41.0; class=Victualling; job=Stewardess
+Mr H. Lee (victim); age=18.0; class=Engine; job=Trimmer
+Mr Henry Reginald Lee (survivor); age=29.0; class=Victualling; job=Scullion
+Mr Reginald Robinson Lee (survivor); age=41.0; class=Deck; job=Lookout
+Mr Fahim ("Philip Zenni") Leeni (survivor); age=22.0; class=3rd Class; job=General Labourer
+Mrs Frances Marie Lefebvre (victim); age=40.0; class=3rd Class
+Master Henry Lefebvre (victim); age=5.0; class=3rd Class
+Miss Ida Lefebvre (victim); age=3.0; class=3rd Class
+Miss Jeannie Lefebvre (victim); age=8.0; class=3rd Class
+Miss Mathilde Lefebvre (victim); age=12.0; class=3rd Class
+Mr Paul Georges Lefebvre (victim); age=35.0; class=Victualling; job=Saloon Steward
+Miss Bertha Lehmann (survivor); age=17.0; class=2nd Class
+Mr Antti Gustaf Leinonen (victim); age=32.0; class=3rd Class
+Miss Jessie Wills Leitch (survivor); age=31.0; class=2nd Class
+Mrs Amelia "Milley" Lemore (survivor); age=34.0; class=2nd Class
+Mr Denis Lennon (victim); age=20.0; class=3rd Class; job=General Labourer
+Mr Lionel Leonard (victim); age=36.0; class=3rd Class; job=Seaman
+Mr Matthew Leonard (victim); age=26.0; class=Victualling; job=Steward
+Miss Berthe Leroy (survivor); age=27.0; class=1st Class; group=Servant; job=Personal Maid
+Mr James Lester (victim); age=26.0; class=3rd Class; job=Dipper
+Mr Gustave J. Lesueur (survivor); age=35.0; class=1st Class; group=Servant; job=Servant
+Mr George Alfred Levett (victim); age=21.0; class=Victualling; job=Assistant Pantryman Steward (1st Class)
+Mr Arthur Ernest Read Lewis (survivor); age=27.0; class=Victualling; job=Steward
+Mr Ervin G. Lewy (victim); age=31.0; class=1st Class; job=Jeweller
+Mr Robert William Norman Leyson (victim); age=25.0; class=2nd Class; job=Engineer
+Mr Ren Aim Lievens (victim); age=24.0; class=3rd Class; job=Farmer
+Mr C. Light (victim); age=23.0; class=Victualling; job=Plate Steward
+Mr Christopher William Light (victim); age=20.0; class=Engine; job=Fireman
+Mr W. Light (victim); age=47.0; class=Engine; job=Fireman
+Mr Charles Herbert Lightoller (survivor); age=38.0; class=Deck; job=2nd. Officer
+Miss Agda Thorilda Viktoria Lindahl (victim); age=25.0; class=3rd Class
+Miss Augusta Charlotta Lindblom (victim); age=45.0; class=3rd Class
+Mr Erik Gustaf Lindeberg-lind (victim); age=42.0; class=1st Class; job=Businessman
+Mr Edvard Bengtsson Lindell (victim); age=36.0; class=3rd Class; job=General Labourer
+Mrs Elin Gerda Lindell (victim); age=30.0; class=3rd Class
+Mr Eino William Lindqvist (survivor); age=20.0; class=3rd Class
+Mr William Charles Lindsay (survivor); age=30.0; class=Engine; job=Fireman
+Mrs Sigrid Lindstrm (survivor); age=55.0; class=1st Class
+Mr Michael Linehan (victim); age=21.0; class=3rd Class; job=Farm Labourer
+Mrs Elizabeth Lindsey Lines (survivor); age=50.0; class=1st Class
+Miss Mary Conover Lines (survivor); age=16.0; class=1st Class
+Mr Lee Ling (victim); age=28.0; class=3rd Class; job=Seaman
+Mr Wenzel Linhart (victim); age=27.0; class=3rd Class; job=Baker
+Mr John Linnane (victim); age=61.0; class=2nd Class; job=Gentleman
+Mr Alexander James Littlejohn (survivor); age=40.0; class=Victualling; job=Saloon Steward
+Mr David (Abraham Harmer) Livshin (victim); age=25.0; class=3rd Class; job=Jeweller
+Mr Humphrey Lloyd (victim); age=32.0; class=Victualling; job=Saloon Steward
+Mr W. Lloyd (victim); age=29.0; class=Engine; job=Fireman
+Mrs Cordelia K. Lobb (victim); age=26.0; class=3rd Class
+Mr William Arthur Lobb (victim); age=30.0; class=3rd Class; job=Engineer
+Mr A. Locke (victim); age=33.0; class=Victualling; job=Scullion
+Mr Edward Thomas Lockyer (victim); age=21.0; class=3rd Class; job=Grocers Assistant
+Mr Frank Long (victim); age=28.0; class=Engine; job=Trimmer
+Mr Milton Clyde Long (victim); age=29.0; class=1st Class
+Mr William Long (victim); age=30.0; class=Engine; job=Trimmer
+Miss Gretchen Fiske Longley (survivor); age=21.0; class=1st Class
+Mr John Dickson Longmuir (victim); age=19.0; class=Victualling; job=Assistant Pantry Steward
+Mr Joseph Holland Loring (victim); age=30.0; class=1st Class
+Mrs Alice Adelaide Louch (survivor); age=42.0; class=2nd Class
+Mr Charles Alexander Louch (victim); age=50.0; class=2nd Class; job=Saddler
+Mr John Lovell (victim); age=37.0; class=Victualling; job=Grill Cook
+Mr John Hall ("Henry") Lovell (victim); age=20.0; class=3rd Class; job=Farmer
+Mr Harold Godfrey Lowe (survivor); age=29.0; class=Deck; job=5th. Officer
+Mr William Arthur Lucas (survivor); age=25.0; class=Deck; job=Able Seaman
+Mr William Watson Lucas (survivor); age=31.0; class=Victualling; job=Saloon Steward
+Mr Nikola Lulic (survivor); age=29.0; class=3rd Class
+Mr Johan Svensson Lundahl (victim); age=51.0; class=3rd Class; job=General Labourer
+Miss Olga Elida Lundin (survivor); age=23.0; class=2nd Class
+Mr Thure Edvin Lundstrm (survivor); age=32.0; class=3rd Class
+Miss Eugenie Elise Lurette (survivor); age=59.0; class=1st Class; group=Servant; job=Personal Maid
+Mr Ren Jacques Lvy (victim); age=36.0; class=2nd Class; job=Chemist
+Mr Charles Lydiatt (victim); age=38.0; class=Victualling; job=Saloon Steward
+Mr Panagiotis K. Lymperopoulus (victim); age=30.0; class=3rd Class; job=General Labourer
+Mr Stanko Lyntakoff (victim); age=44.0; class=3rd Class; job=General Labourer
+Mr William Henry Lyons (victim); age=26.0; class=Deck; job=Able Seaman
+Mr J. Mabey (victim); age=23.0; class=Victualling; job=Steward
+Mrs Mary Mack (victim); age=57.0; class=2nd Class
+Mr Charles Donald Mackay (survivor); age=34.0; class=Victualling; job=Saloon Steward
+Mr George William Mackay (victim); age=20.0; class=3rd Class; job=Butler
+Mr George William Mackie (victim); age=34.0; class=Victualling; job=Bed Room Steward
+Mr William Dickson Mackie (victim); age=32.0; class=Engine; job=Junior 5th. Engineer
+Miss Margaret "Maggie" Madigan (survivor); age=21.0; class=3rd Class
+Miss Georgette Alexandra Madill (survivor); age=16.0; class=1st Class
+Mr Fridtjof Arne Madsen (survivor); age=24.0; class=3rd Class
+Mr John Edward Maguire (victim); age=30.0; class=1st Class
+Miss Bridget Delia Mahon (victim); age=20.0; class=3rd Class
+Miss Roberta Elizabeth Mary Maioni (survivor); age=19.0; class=1st Class; group=Servant; job=Personal Maid
+Mr Simon Maisner (victim); age=34.0; class=3rd Class; job=Tailor
+Mr Thomas Edgar Major (victim); age=35.0; class=Victualling; job=Bath Steward
+Mr William James Major (survivor); age=32.0; class=Engine; job=Fireman
+Mr Jean-Nol Malachard (victim); age=25.0; class=2nd Class
+Mr Albert Denis Pierre Mallet (victim); age=45.0; class=2nd Class; job=Merchant
+Master Andr Clement Mallet (survivor); age=1.0; class=2nd Class
+Mrs Antonine Marie Mallet (survivor); age=24.0; class=2nd Class
+Mr Hanna Mamee (survivor); age=20.0; class=3rd Class
+Miss Mary Mangan (victim); age=32.0; class=3rd Class
+Mr Serafino Emilio Mangiavacchi (victim); age=30.0; class=2nd Class; job=Clerk
+Miss Margaret Mannion (survivor); age=28.0; class=3rd Class
+Mr Roland Frederick Mantle (victim); age=36.0; class=Victualling; job=Steward
+Mr John Starr March (victim); age=50.0; class=Victualling; group=Postal Clerk; job=Postal Clerk
+Mr Pierre Marchal (survivor); age=29.0; class=1st Class; job=Aviator
+Mr Sarkis Mardirosian (victim); age=25.0; class=3rd Class; job=Farm Labourer
+Mr Dmitri Marinko (victim); age=23.0; class=3rd Class
+Mr Marin Markoff (victim); age=35.0; class=3rd Class; job=General Labourer
+Mr J. Marks (victim); age=26.0; class=Victualling; job=Assistant Pantryman Steward
+Mr Johann Markun (victim); age=33.0; class=3rd Class; job=General Labourer
+Mr G. Marrett (victim); age=22.0; class=Engine; job=Fireman
+Mr John William Marriott (victim); age=20.0; class=Victualling; job=Assistant Pantryman Steward (1st Class)
+Miss Evelyn Marsden (survivor); age=28.0; class=Victualling; job=Stewardess
+Mr Frederick Charles Marsh (victim); age=39.0; class=Engine; job=Fireman
+Mrs Annie Martin (survivor); age=33.0; class=Victualling; job=Stewardess
+Miss Mabel Elvina Martin (survivor); age=20.0; class=A la Carte; job=Cashier
+Mr Daniel Warner Marvin (victim); age=18.0; class=1st Class; job=Of Independent Means
+Mrs Mary Graham Carmichael Marvin (survivor); age=18.0; class=1st Class
+Mr Leopold Adolphus Maskell (victim); age=25.0; class=Engine; job=Trimmer
+Mr Frank Archibald Robert Mason (survivor); age=32.0; class=Engine; job=Fireman
+Mr J. Mason (victim); age=39.0; class=Engine; job=Leading Fireman
+Mr David Matherson (victim); age=30.0; class=Deck; job=Able Seaman
+Mr Montague Vincent Mathias (victim); age=28.0; class=Deck; job=Mess Steward
+Mr Nicola Matinoff (victim); age=30.0; class=3rd Class
+Mr William John Matthews (victim); age=30.0; class=2nd Class; job=China Clay Worker
+Sig. Adolf Mattmann (victim); age=20.0; class=A la Carte; job=Ice Man
+Mr Paul Achille Maurice Germain Mauge (survivor); age=25.0; class=A la Carte; job=Kitchen Clerk
+Mr John Maxwell (victim); age=31.0; class=Deck; job=Carpenter / Joiner
+Mr Arthur May (victim); age=24.0; class=Engine; job=Fireman
+Mr Arthur William May (victim); age=60.0; class=Engine; job=Fireman Messman
+Mr Frank Hubert Maybery (victim); age=36.0; class=2nd Class; job=Property Developer / Real Estate
+Mlle Bertha Antonine Mayn (survivor); age=24.0; class=1st Class; job=Singer
+Mr Isaac Hiram Maynard (survivor); age=31.0; class=Victualling; job=Entre Cook
+Mr William Peter Mayo (victim); age=27.0; class=Engine; job=Leading Fireman
+Mr Alfred Maytum (victim); age=52.0; class=Victualling; job=Chief Butcher
+Mr Thomas Mayzes (survivor); age=25.0; class=Engine; job=Fireman
+Mr Thomas Mcandrew (victim); age=36.0; class=Engine; job=Fireman
+Mr William Mcandrews (victim); age=23.0; class=Engine; job=Fireman
+Mr Thomas Francis Mccaffry (victim); age=46.0; class=1st Class; job=Banker
+Miss Catherine "Katie" Mccarthy (survivor); age=24.0; class=3rd Class
+Mr Frederick J. Mccarthy (victim); age=36.0; class=Victualling; job=Bed Room Steward
+Mr Timothy J. Mccarthy (victim); age=54.0; class=1st Class; job=Buyer
+Mr William Mccarthy (survivor); age=47.0; class=Deck; job=Able Seaman
+Mr W. Mccastlan (victim); age=38.0; class=Engine; job=Fireman
+Mr Thomas W. Mccawley (victim); age=36.0; class=Victualling; job=Gymnasium Steward
+Mr Thomas Joseph Mccormack (survivor); age=19.0; class=3rd Class; job=Barman
+Miss Agnes Mccoy (survivor); age=29.0; class=3rd Class
+Miss Alicia Mccoy (survivor); age=26.0; class=3rd Class
+Mr Bernard Mccoy (survivor); age=24.0; class=3rd Class; job=General Labourer
+Mr Arthur Gordon Mccrae (victim); age=32.0; class=2nd Class; job=Engineer
+Mr James Matthew Mccrie (victim); age=30.0; class=2nd Class; job=Oil Worker
+Miss Bridget Delia Mcdermott (survivor); age=31.0; class=3rd Class
+Mr Hugh Walter Mcelroy (victim); age=37.0; class=Victualling; job=Purser
+Mr Michael Mcevoy (victim); age=19.0; class=3rd Class; job=Farm Labourer
+Mr James Mcgann (survivor); age=26.0; class=Engine; job=Trimmer
+Mr Edward Joseph Mcgarvey (victim); age=34.0; class=Engine; job=Fireman
+Mr Erroll Victor Mcgaw (victim); age=30.0; class=Engine; job=Fireman
+Mr George Francis 'Paddy' Mcgough (survivor); age=36.0; class=Deck; job=Able Seaman
+Mr James Robert Mcgough (survivor); age=35.0; class=1st Class; job=Buyer
+Ms Mary Mcgovern (survivor); age=22.0; class=3rd Class
+Miss Anna "Annie" Mcgowan (survivor); age=17.0; class=3rd Class
+Miss Katherine Mcgowan (victim); age=42.0; class=3rd Class
+Mr James Mcgrady (victim); age=27.0; class=Victualling; job=Saloon Steward
+Mr J. Mcgregor (victim); age=30.0; class=Engine; job=Fireman
+Mr Thomas Mcinerney (victim); age=37.0; class=Engine; job=Greaser
+Mr William Mcintyre (survivor); age=21.0; class=Engine; job=Trimmer
+Mr Peter David Mckane (victim); age=46.0; class=2nd Class
+Mrs  Mclaren (survivor); age=40.0; class=Victualling; job=Stewardess
+Mr Martin Mcmahon (victim); age=20.0; class=3rd Class; job=Farm Labourer
+Mr Arthur Mcmicken (survivor); age=23.0; class=Victualling; job=Saloon Steward
+Mr Benjamin Tucker Mcmicken (victim); age=21.0; class=Victualling; job=Second Pantry Steward
+Mr John Richard Mcmullin (victim); age=32.0; class=Victualling; job=First class saloon steward
+Mr William Ernest Mcmurray (victim); age=43.0; class=Victualling; job=Bed Room Steward
+Mrs Eileen Mcnamee (victim); age=19.0; class=3rd Class
+Mr Neal Mcnamee (victim); age=27.0; class=3rd Class; job=Provision Manager
+Miss Bridget Mcneill (victim); age=27.0; class=3rd Class
+Mr William Mcquillan (victim); age=26.0; class=Engine; job=Fireman
+Mr William Alexander Mcrae (victim); age=32.0; class=Engine; job=Fireman
+Mr William Mcreynolds (victim); age=22.0; class=Engine; job=Junior 6th. Engineer
+Mrs Marian Meanwell (victim); age=63.0; class=3rd Class; job=Milliner
+Mr John Meehon (victim); age=22.0; class=3rd Class; job=General Labourer
+Mrs Annie Louise Rowley Meek (victim); age=31.0; class=3rd Class
+Mrs Elizabeth Anne Mellinger (survivor); age=41.0; class=2nd Class
+Miss Madeleine Violet Mellinger (survivor); age=13.0; class=2nd Class
+Mr Arthur Mellor (victim); age=34.0; class=Victualling; job=Saloon Steward
+Mr William John Mellors (survivor); age=19.0; class=2nd Class; job=Salesman
+Mr Matti Alexanteri Menp (victim); age=22.0; class=3rd Class
+Mr Alfonzo Meo (martino) (victim); age=48.0; class=3rd Class; job=Musician
+Mr Robert Mernagh (victim); age=28.0; class=3rd Class; job=Farm Labourer
+Mr August Meyer (victim); age=31.0; class=2nd Class; job=Baker
+Mr Edgar Joseph Meyer (victim); age=28.0; class=1st Class; job=Mechanical Engineer
+Mrs Leila Meyer (survivor); age=25.0; class=1st Class
+Mr Alfred Pirrie Middleton (victim); age=26.0; class=Engine; job=Electrician
+Mr M. V. Middleton (victim); age=24.0; class=Victualling; job=Saloon Steward
+Mr Karl Albert Midtsj (survivor); age=21.0; class=3rd Class; job=Farmer
+Mr Stoytcho Mihoff (victim); age=28.0; class=3rd Class; job=General Labourer
+Mr Frank Miles (victim); age=23.0; class=3rd Class; job=Engineer
+Mr George Milford (victim); age=28.0; class=Engine; job=Fireman
+Mr Robert Millar (victim); age=26.0; class=Engine; job=Extra 5th Engineer
+Mr Thomas Millar (victim); age=33.0; class=Engine; job=Deck Enginer
+Mr Francis Davis Millet (victim); age=65.0; class=1st Class; job=Artist
+Mr Jacob Christian Milling (victim); age=48.0; class=2nd Class; job=Machine Inspector
+Mr Christopher Mills (survivor); age=51.0; class=Victualling; job=Butcher
+Miss Daisy E. Minahan (survivor); age=33.0; class=1st Class
+Mrs Lillian E. Minahan (survivor); age=37.0; class=1st Class
+Dr William Edward Minahan (victim); age=44.0; class=1st Class; job=Merchant
+Mr Ivan Mineff (victim); age=24.0; class=3rd Class; job=General Labourer
+Mr Lazar Minkoff (victim); age=21.0; class=3rd Class; job=General Labourer
+Mr William Mintram (victim); age=46.0; class=Engine; job=Fireman
+Mr Abraham Mishellamy (victim); age=52.0; class=Victualling; job=Printer Steward
+Mr Henry Michael Mitchell (victim); age=71.0; class=2nd Class; job=Coach Painter
+Mr Lorenzo (Lawrence) Horace Mitchell (victim); age=18.0; class=Engine; job=Trimmer
+Mr Mito Mitkoff (victim); age=23.0; class=3rd Class; job=General Labourer
+Mr Kalle Edvard Mkinen (victim); age=29.0; class=3rd Class; job=General Labourer
+Mr L. Mller (victim); age=36.0; class=Victualling; job=Interpreter Steward
+Mr Philipp Edmund Mock (survivor); age=30.0; class=1st Class
+Miss Ellen Mary Mockler (survivor); age=23.0; class=3rd Class
+Mr Sigurd Hansen Moen (victim); age=27.0; class=3rd Class; job=Carpenter / Joiner
+Mr Harry Markland Molson (victim); age=55.0; class=1st Class; job=Businessman
+Sig. Joan Javier Monrs (victim); age=20.0; class=A la Carte; job=Assistant Waiter
+Sig. Giovanni Monteverdi (victim); age=23.0; class=A la Carte; job=Cook
+Fr Juozas Montvila (victim); age=27.0; class=2nd Class; job=Priest / Minister
+Mr James Paul Moody (victim); age=24.0; class=Deck; job=6th. Officer
+Mrs Beila Moor (survivor); age=29.0; class=3rd Class; job=Tailor
+Master Meier Moor (survivor); age=7.0; class=3rd Class
+Mr Alfred Ernest Moore (victim); age=39.0; class=Victualling; job=Saloon Steward
+Mr Clarence Bloomfield Moore (victim); age=47.0; class=1st Class; job=Businessman
+Mr George Alfred Moore (survivor); age=32.0; class=Deck; job=Able Seaman
+Mr John J. Moore (survivor); age=29.0; class=Engine; job=Fireman
+Mr Leonard Charles Moore (victim); age=19.0; class=3rd Class; job=Bricklayer
+Mr Ralph William Moore (victim); age=21.0; class=Engine; job=Trimmer
+Mr Richard Henry Moores (victim); age=44.0; class=Engine; job=Greaser
+Miss Bertha Bridget Moran (survivor); age=28.0; class=3rd Class
+Mr Daniel James Moran (victim); age=27.0; class=3rd Class; job=General Labourer
+Dr Ernest Moraweck (victim); age=54.0; class=2nd Class; job=Doctor
+Mr Charles Frederick Morgan (bird) (victim); age=42.0; class=Victualling; job=Assistant Storekeeper
+Mr Arthur Herbert Morgan (victim); age=27.0; class=Engine; job=Trimmer
+Mr Thomas A. Morgan (victim); age=26.0; class=Engine; job=Fireman
+Mr Henry Samuel Morley (victim); age=38.0; class=2nd Class; job=Confectioner
+Mr William Morley (victim); age=34.0; class=3rd Class; job=Carpenter / Joiner
+Mr Arthur Morris (victim); age=30.0; class=Engine; job=Greaser
+Mr Frank Herbert Morris (survivor); age=28.0; class=Victualling; job=Bath Room Steward
+Mr W. Morris (victim); age=24.0; class=Engine; job=Trimmer
+Mr Thomas Rowan Morrow (victim); age=30.0; class=3rd Class; job=General Labourer
+Mr Albert Johan Moss (survivor); age=29.0; class=3rd Class
+Mr William Moss (victim); age=34.0; class=Victualling; job=1st. Saloon Steward
+Master Gerios ("George _") Moubarek (survivor); age=7.0; class=3rd Class
+Master Halim Gonios ("William George") Moubarek (survivor); age=4.0; class=3rd Class
+Mrs Omine Moubarek (survivor); age=24.0; class=3rd Class
+Mrs Mantoura Boulos Moussa (survivor); age=35.0; class=3rd Class; job=Housewife
+Mrs Fatima Mousselmani (survivor); age=22.0; class=3rd Class
+Mr Rahamin Haim Moutal (victim); age=28.0; class=3rd Class; job=Traveller
+Mr William Young Moyes (victim); age=23.0; class=Engine; job=Senior 6th. Engineer
+Mr Thomas Charles Mudd (victim); age=16.0; class=2nd Class
+Miss Katherine "Katie" Mullen (survivor); age=21.0; class=3rd Class
+Mr Thomas A. Mullen (victim); age=20.0; class=Victualling; job=Steward
+Miss Mary  (_Lennon) Mullin (victim); age=18.0; class=3rd Class
+Miss Bridget Elizabeth Mulvihill (survivor); age=25.0; class=3rd Class
+Mr Joseph Murdlin (victim); age=22.0; class=3rd Class; job=Chemist
+Mr William John Murdoch (survivor); age=33.0; class=Engine; job=Fireman
+Mr William McMaster Murdoch (victim); age=39.0; class=Deck; job=1st. Officer
+Miss Catherine "Kate" Murphy (survivor); age=18.0; class=3rd Class
+Miss Margaret Jane "Mary" "Maggie" Murphy (survivor); age=25.0; class=3rd Class
+Miss Nora Murphy (survivor); age=34.0; class=3rd Class
+Mr Pehr Fabian Oliver Malkolm Myhrman (victim); age=18.0; class=3rd Class; job=General Labourer
+Mr Thomas Francis Myles (victim); age=63.0; class=2nd Class; job=Gentleman
+Mr Penko Naidenoff (victim); age=22.0; class=3rd Class; job=General Labourer
+Miss Adele "Jane" Najib kiamie (survivor); age=15.0; class=3rd Class
+Mr Toufik Nakhli (victim); age=17.0; class=3rd Class
+Miss Maria Nakid (survivor); age=1.0; class=3rd Class
+Mr Sahid Nakid (survivor); age=20.0; class=3rd Class
+Mrs Waika "Mary" Nakid (survivor); age=19.0; class=3rd Class
+Mr William Henry Nancarrow (victim); age=34.0; class=3rd Class; job=Mason
+Mr Minko Nankoff (victim); age=32.0; class=3rd Class; job=General Labourer
+Sig. Francesco Luigi Arcangelo Nannini (victim); age=42.0; class=A la Carte; job=Head Waiter
+Mr Mustafa Nasr alma (victim); age=20.0; class=3rd Class; job=Farm Labourer
+Mrs Adele Nasser (survivor); age=14.0; class=2nd Class
+Mr Nicholas Nasser (victim); age=28.0; class=2nd Class
+Mr Saade Nassr rizq (victim); age=20.0; class=3rd Class
+Mr Charles Natsch (victim); age=36.0; class=1st Class
+Miss Hannah Naughton (victim); age=21.0; class=3rd Class
+Master Edmond Roger Navratil (survivor); age=2.0; class=2nd Class
+Mr Michel Navratil (victim); age=32.0; class=2nd Class
+Master Michel Marcel Navratil (survivor); age=3.0; class=2nd Class
+Mr Bentley Harold Neal (survivor); age=25.0; class=Victualling; job=Baker
+Mr Christo Nenkoff (victim); age=22.0; class=3rd Class; job=General Labourer
+Mr Israel Nesson (victim); age=26.0; class=2nd Class; job=Electrician
+Mr George Nettleton (victim); age=28.0; class=Engine; job=Fireman
+Mr Arthur Webster Newell (victim); age=58.0; class=1st Class
+Miss Madeleine Newell (survivor); age=31.0; class=1st Class
+Miss Marjorie Anne Newell (survivor); age=23.0; class=1st Class
+Mr Charles Thomas Newman (victim); age=33.0; class=Engine; job=Assistant Storekeeper
+Miss Helen Monypeny Newsom (survivor); age=19.0; class=1st Class
+Mr Joseph Charles Nicholls (victim); age=19.0; class=2nd Class; job=Miner
+Mr Sidney Nicholls (victim); age=39.0; class=Victualling; job=Saloon Steward
+Mr A.D. Nichols (victim); age=34.0; class=Victualling; job=Steward
+Mr Alfred Nichols (victim); age=42.0; class=Deck; job=Boatswain
+Mr Walter Henry Nichols (survivor); age=35.0; class=Victualling; job=Assistant Saloon Steward
+Mr Arthur Ernest Nicholson (victim); age=64.0; class=1st Class
+Master Elias ("Louis Garrett") Nicola-yarred (survivor); age=11.0; class=3rd Class
+Miss Jamila ("Amelia Garrett") Nicola-yarred (survivor); age=14.0; class=3rd Class
+Miss Manta Josefina Nieminen (victim); age=29.0; class=3rd Class; job=Servant
+Mr Samuel Niklasson (victim); age=28.0; class=3rd Class; job=General Labourer
+Mr August Ferdinand Nilsson (victim); age=21.0; class=3rd Class; job=General Labourer
+Miss Berta Olivia Nilsson (survivor); age=18.0; class=3rd Class
+Miss Helmina Josefina Nilsson (survivor); age=26.0; class=3rd Class
+Mr Iisakki Antino ij Nirva (victim); age=41.0; class=3rd Class; job=General Labourer
+Mr Juha Nisknen (survivor); age=39.0; class=3rd Class
+Mr Mansouer Nofal (victim); age=20.0; class=3rd Class; job=Journalist
+Mr John Noon (victim); age=35.0; class=Engine; job=Fireman
+Mr Robert Douglas Norman (victim); age=28.0; class=2nd Class; job=Electrical Engineer
+Mr James Norris (victim); age=23.0; class=Engine; job=Fireman
+Mr Bertram Arthur Noss (victim); age=21.0; class=Engine; job=Fireman
+Mr Henry Noss (survivor); age=30.0; class=Engine; job=Fireman
+Mr Richard Cater Nosworthy (victim); age=21.0; class=3rd Class; job=Farm Labourer
+Mr Alfred Nourney (survivor); age=20.0; class=1st Class; job=Gentleman
+Mr William Nutbean (survivor); age=30.0; class=Engine; job=Fireman
+Mrs Elizabeth Nye (survivor); age=29.0; class=2nd Class
+Miss Anna Sofia Nysten (survivor); age=22.0; class=3rd Class
+Mr Johan Hansen Nysveen (victim); age=60.0; class=3rd Class; job=Farmer
+Mrs Johanna "Hannah" O'brien (survivor); age=26.0; class=3rd Class; job=Housewife
+Mr Thomas O'brien (victim); age=27.0; class=3rd Class; job=Farm Labourer
+Mr Timothy O'brien (victim); age=21.0; class=3rd Class
+Mr Patrick Denis O'connell (victim); age=17.0; class=3rd Class; job=General Labourer
+Mr John O'connor (survivor); age=25.0; class=Engine; job=Trimmer
+Mr Maurice O'connor (victim); age=16.0; class=3rd Class; job=General Labourer
+Mr Patrick O'connor (victim); age=23.0; class=3rd Class; job=Farmer
+Mr Thomas Peter O'connor (victim); age=39.0; class=Victualling; job=Bed Room Steward
+Miss Bridget O'driscoll (survivor); age=27.0; class=3rd Class
+Miss Ellen "Nellie" O'dwyer (survivor); age=25.0; class=3rd Class
+Mr Patrick O'keefe (survivor); age=21.0; class=3rd Class; job=Farm Labourer
+Miss Hanora "Nora" O'leary (survivor); age=16.0; class=3rd Class
+Dr William Francis Norman O'loughlin (victim); age=62.0; class=Deck; job=Surgeon
+Miss Bridget Mary O'sullivan (victim); age=21.0; class=3rd Class
+Doa Fermina Oliva y ocana (survivor); age=39.0; class=1st Class; group=Servant; job=Personal Maid
+Mr Charles Olive (victim); age=31.0; class=Engine; job=Greaser
+Mr Ernest Roskelly Olive (victim); age=28.0; class=Victualling; job=Clothes Presser Steward
+Mr Alfred Olliver (survivor); age=27.0; class=Deck; job=Quartermaster
+Master Artur Karl Olsen (survivor); age=9.0; class=3rd Class
+Mr Henry Margido Olsen (victim); age=28.0; class=3rd Class; job=Engineer
+Mr Karl Siegwart Andreas Olsen (victim); age=42.0; class=3rd Class; job=General Labourer
+Mr Ole Martin Olsen (victim); age=27.0; class=3rd Class; job=General Labourer
+Miss Elina Olsson (victim); age=31.0; class=3rd Class
+Mr Nils Johan Gransson Olsson (victim); age=28.0; class=3rd Class
+Mr Oscar Wilhelm Olsson (survivor); age=32.0; class=3rd Class
+Mr Thor Anderson Olsvigen (victim); age=20.0; class=3rd Class; job=Salesman
+Mr Alfred Fernand Omont (survivor); age=29.0; class=1st Class; job=Dealer
+Miss Jelka Oreskovic (victim); age=23.0; class=3rd Class; job=Farmer
+Mr Luka Oreskovic (victim); age=20.0; class=3rd Class; job=Farmer
+Miss Marija Oreskovic (victim); age=20.0; class=3rd Class; job=Farm Labourer
+Mr Walter Hayward Orpet (victim); age=31.0; class=Victualling; job=Saloon Steward
+Mr J. Orr (victim); age=40.0; class=Victualling; job=Assistant Vegetable Cook
+Mr William Edward Osborne (victim); age=32.0; class=Victualling; job=Saloon Steward
+Mr Frank Osman (survivor); age=28.0; class=Deck; job=Able Seaman
+Mr Olaf Elon Osn (victim); age=16.0; class=3rd Class; job=Farm Labourer
+Mr Engelhart Cornelius Ostby (victim); age=64.0; class=1st Class; job=Jeweller
+Miss Helen Ragnhild Ostby (survivor); age=22.0; class=1st Class
+Mr Charles Othen (survivor); age=35.0; class=Engine; job=Fireman
+Mr Richard Otter (victim); age=38.0; class=2nd Class; job=Stone Cutter
+Mr Servando Jos Florentino Ovis y rodrguez (victim); age=36.0; class=1st Class; job=Merchant
+Mr Lewis Owen (victim); age=49.0; class=Victualling; job=Assistant Saloon Steward
+Mr Percy Thomas Oxenham (survivor); age=22.0; class=2nd Class; job=Mason
+Mr Reginald lvan Pacey (victim); age=17.0; class=Victualling; job=Lift Steward
+Sig. Jean Baptiste Stanislas Pachera (victim); age=19.0; class=A la Carte; job=Assistant Larder Cook
+Mr Julian Padron manent (survivor); age=26.0; class=2nd Class; job=Chauffeur
+Mr Richard Charles John Paice (victim); age=32.0; class=Engine; job=Fireman
+Dr Alfred Pain (victim); age=23.0; class=2nd Class; job=Doctor
+Mr Charles Painter (victim); age=31.0; class=Engine; job=Fireman
+Mr Frank Frederick Painter (victim); age=29.0; class=Engine; job=Fireman
+Mr James Arthur Paintin (victim); age=29.0; class=Victualling; job=Captain's Steward (Tiger)
+Mr Thomas Palles (victim); age=42.0; class=Engine; job=Greaser
+Sr. Emili Palls i castell (survivor); age=29.0; class=2nd Class
+Master Eino Viljam Panula (victim); age=1.0; class=3rd Class
+Mr Ernesti Arvid Panula (victim); age=16.0; class=3rd Class; job=General Labourer
+Master Jaako Arnold Panula (victim); age=14.0; class=3rd Class; job=General Labourer
+Master Juha Niilo Panula (victim); age=7.0; class=3rd Class
+Mrs Maija Emelia Abrahamintytar Panula (victim); age=41.0; class=3rd Class
+Master Urho Abraham Panula (victim); age=2.0; class=3rd Class
+Mr Clifford Richard Parker (victim); age=28.0; class=2nd Class; job=Clerk
+Mr Francis "Frank" Parkes (victim); age=18.0; class=2nd Class; group=H&W Guarantee Group; job=Plumber
+Mr William Henry Marsh Parr (victim); age=29.0; class=1st Class; group=H&W Guarantee Group; job=Electrician
+Mrs Lutie Davis Parrish (survivor); age=59.0; class=2nd Class
+Mr Edward Parsons (victim); age=35.0; class=Victualling; job=Chief Storekeeper
+Mr Frank Alfred Parsons (victim); age=26.0; class=Engine; job=Senior 5th. Engineer
+Mr Richard Parsons (victim); age=18.0; class=Victualling; job=Saloon Steward
+Mr Austin Partner (victim); age=40.0; class=1st Class; job=Stockbroker
+Mr Charles H. Pascoe (survivor); age=43.0; class=Deck; job=Able Seaman
+Mr Jakob Pasic (victim); age=21.0; class=3rd Class; job=Farmer
+Mr George Patchett (victim); age=19.0; class=3rd Class; job=Shoemaker
+Mr Stefo Pavlovic (victim); age=32.0; class=3rd Class; job=General Labourer
+Mr Vivian Ponsonby Payne (victim); age=22.0; class=1st Class; group=Servant; job=Clerk
+Master Alfred Edward Peacock (victim); age=0.583333333333; class=3rd Class
+Mrs Edith Peacock (victim); age=26.0; class=3rd Class
+Miss Treasteall Peacock (victim); age=3.0; class=3rd Class
+Mr Alfred Emest Pearce (victim); age=24.0; class=Victualling; job=Steward
+Mr Ernest Pearce (victim); age=32.0; class=3rd Class; job=Farmer
+Mr John Pearce (survivor); age=28.0; class=Engine; job=Fireman
+Mr Albert Victor Pearcey (survivor); age=32.0; class=Victualling; job=Steward
+Mrs Edith Pears (survivor); age=22.0; class=1st Class
+Mr Thomas Clinton Pears (victim); age=29.0; class=1st Class; job=Of Independent Means
+Mrs Maria Josefa Perezde Soto y Vallejo Peasco y castellana (survivor); age=22.0; class=1st Class; job=Of Independent Means
+Mr Victor Peasco y castellana (victim); age=24.0; class=1st Class; job=Of Independent Means
+Mr Olaf Pedersen (victim); age=28.0; class=3rd Class; job=General Labourer
+Sig. Alessandro Pedrini (victim); age=21.0; class=A la Carte; job=Assistant Waiter
+Mr Giuseppe Peduzzi (victim); age=24.0; class=3rd Class; job=Waiter
+Mr Edvard Pekoniemi (victim); age=21.0; class=3rd Class; job=General Labourer
+Mr George Pelham (survivor); age=39.0; class=Engine; job=Trimmer
+Mr Nikolai Johannes Peltomki (victim); age=25.0; class=3rd Class; job=General Labourer
+Mr Frederick William Pengelly (victim); age=19.0; class=2nd Class; job=Miner
+Mr Thomas Francis Pennal (victim); age=33.0; class=Victualling; job=Bath Steward
+Mr William Farr Penny (victim); age=31.0; class=Victualling; job=Assistant Saloon Steward (2nd Class)
+Mr John Poole Penrose (victim); age=49.0; class=Victualling; job=Bed Room Steward
+Sig. Alberto Peracchio (victim); age=20.0; class=A la Carte; job=Assistant Waiter
+Sig. Sebastiano Peracchio (victim); age=17.0; class=A la Carte; job=Assistant Waiter
+Mr John Henry Perkin (victim); age=22.0; class=3rd Class; job=Farmer
+Mr Laurence Alexander Perkins (victim); age=22.0; class=Victualling; job=Telephone Steward
+Mr Walter John Perkis (survivor); age=37.0; class=Deck; job=Quartermaster
+Mr Ren Pernot (victim); age=39.0; class=2nd Class; group=Servant; job=Chauffeur
+Sig. Alfonso Perotti (victim); age=20.0; class=A la Carte; job=Assistant Waiter
+Miss Mary Anne Perreault (survivor); age=33.0; class=1st Class; group=Servant; job=Personal Maid
+Mr William Charles Perrin (victim); age=39.0; class=Victualling; job=Boots
+Mr Hubert Prouse Perriton (victim); age=31.0; class=Victualling; job=Saloon Steward
+Mr Edgar Lionel Perry (survivor); age=19.0; class=Engine; job=Trimmer
+Mr H. Perry (victim); age=23.0; class=Engine; job=Trimmer
+Mr Ernst Ulrik Persson (survivor); age=25.0; class=3rd Class; job=Chauffeur
+Fr Josef Peruschitz (victim); age=41.0; class=2nd Class; job=Priest / Minister
+Miss Anna ("Mary Joseph") Peter / joseph (survivor); age=2.0; class=3rd Class
+Mrs Catherine Peter / joseph (survivor); age=24.0; class=3rd Class
+Master Michael J. ("Michael Joseph") Peter / joseph (survivor); age=4.0; class=3rd Class
+Miss Katie Peters (victim); age=26.0; class=3rd Class
+Mr William Chapman Peters (survivor); age=26.0; class=Deck; job=Able Seaman
+Mr Marius Petersen (victim); age=24.0; class=3rd Class; job=Dairy Worker
+Miss Matilda Petranec (victim); age=28.0; class=3rd Class; job=Servant
+Mr Nedialco Petroff (victim); age=19.0; class=3rd Class; job=General Labourer
+Mr Pastcho Petroff (victim); age=29.0; class=3rd Class; job=General Labourer
+Miss Ellen Natalia Pettersson (victim); age=18.0; class=3rd Class
+Mr Johan Emil Pettersson (victim); age=25.0; class=3rd Class; job=General Labourer
+Mr Edwin Henry Petty (victim); age=25.0; class=Victualling; job=Bed Room Steward
+Major Arthur Godfrey Peuchen (survivor); age=52.0; class=1st Class
+Mr Richard Paul Jozef Pfropper (survivor); age=30.0; class=Victualling; job=Saloon Steward
+Mr Harold Charles William Phillimore (survivor); age=23.0; class=Victualling; job=Saloon Steward
+Mr A. G. Phillips (victim); age=27.0; class=Engine; job=Greaser
+Miss Alice Frances Louisa Phillips (survivor); age=21.0; class=2nd Class
+Mr Escott Robert Phillips (victim); age=42.0; class=2nd Class
+Mr John George Phillips (victim); age=25.0; class=Victualling; job=Telegraphist
+Miss Kate Florence Phillips (survivor); age=19.0; class=2nd Class
+Mr Walter John Phillips (victim); age=35.0; class=A la Carte; job=Storekeeper
+Sig. Louis Piatti (victim); age=17.0; class=A la Carte; job=Assistant Waiter
+Sig. Pompeo Piazza (victim); age=30.0; class=A la Carte; job=Waiter
+Mr Berk Pickard (survivor); age=32.0; class=3rd Class; job=Leather Worker
+Mrs Rosa Pinsky (survivor); age=32.0; class=2nd Class
+Mr William James Pitfield (victim); age=25.0; class=Engine; job=Greaser
+Mr Herbert John Pitman (survivor); age=34.0; class=Deck; job=3rd. Officer
+Mr Wilfred George Platt (victim); age=18.0; class=Victualling; job=Scullion
+Mr Vasil Plotcharsky (victim); age=27.0; class=3rd Class; job=General Labourer
+Mrs Alma Cornelia Plsson (victim); age=29.0; class=3rd Class; job=Housewife
+Master Gsta Leonard Plsson (victim); age=2.0; class=3rd Class
+Master Paul Folke Plsson (victim); age=6.0; class=3rd Class
+Miss Stina Viola Plsson (victim); age=3.0; class=3rd Class
+Miss Torborg Danira Plsson (victim); age=8.0; class=3rd Class
+Mr Alfred John Alexander Podesta (survivor); age=24.0; class=Engine; job=Fireman
+Sig. Emilio Poggi (victim); age=28.0; class=A la Carte; job=Waiter
+Mr John Thomas Poingdestre (survivor); age=33.0; class=Deck; job=Able Seaman
+Mr Mate Pokrnic (victim); age=17.0; class=3rd Class
+Mr Tome Pokrnic (victim); age=24.0; class=3rd Class
+Mr George Pond (victim); age=32.0; class=Engine; job=Fireman
+Mr Martin Ponesell (victim); age=24.0; class=2nd Class
+Mr Percy Robert Pook (victim); age=34.0; class=Victualling; job=Assistant pantry steward
+Mr Frank Port (survivor); age=22.0; class=Victualling; job=Steward
+Mr Emilio Ilario Giuseppe Portaluppi (survivor); age=30.0; class=2nd Class
+Mr Walter Chamberlain Porter (victim); age=46.0; class=1st Class
+Mr Thomas Henry Porteus (victim); age=32.0; class=Victualling; job=Butcher
+Mrs Lily Alexenia Potter (survivor); age=56.0; class=1st Class
+Mr George Alexander Prangnell (survivor); age=30.0; class=Engine; job=Greaser
+Mr Frank Winnold Prentice (survivor); age=22.0; class=Victualling; job=Storekeeper
+Mr Thomas Charles Alfred Preston (victim); age=20.0; class=Engine; job=Trimmer
+Mr Ernest Price (victim); age=17.0; class=A la Carte; job=Barman
+Mrs Alice Prichard (survivor); age=33.0; class=Victualling; job=Stewardess
+Mr John "Jack" Arthur Prideaux (victim); age=23.0; class=Victualling; job=Steward
+Mr Arthur John Priest (survivor); age=24.0; class=Engine; job=Fireman
+Mr Harold John Prior (survivor); age=21.0; class=Victualling; job=Steward
+Mr Charles Proctor (victim); age=40.0; class=Victualling; job=Chef
+Mr Richard Royston Proudfoot (victim); age=23.0; class=Engine; job=Trimmer
+Mr Charles William Pryce (victim); age=22.0; class=Victualling; job=Saloon Steward
+Mr Alfred Pugh (survivor); age=20.0; class=Victualling; job=Steward
+Mr Percy Pugh (victim); age=31.0; class=Engine; job=Leading Fireman
+Mr Franz Pulbaum (victim); age=27.0; class=2nd Class
+Mr Uscher Pulner (victim); age=16.0; class=3rd Class
+Mr John E. Pusey (victim); age=35.0; class=Victualling; job=Saloon Steward
+Mr Robert William Pusey (survivor); age=24.0; class=Engine; job=Fireman
+Mrs Jane Quick (survivor); age=33.0; class=2nd Class
+Miss Phyllis May Quick (survivor); age=2.0; class=2nd Class
+Miss Winifred Vera Quick (survivor); age=8.0; class=2nd Class
+Mr Alexander Radeff (victim); age=27.0; class=3rd Class; job=General Labourer
+Mr Frank Henry Randall (victim); age=29.0; class=Victualling; job=Saloon Steward
+Mr Thomas Ranger (survivor); age=29.0; class=Engine; job=Greaser
+Mr James Ransom (victim); age=33.0; class=Victualling; job=Saloon Steward
+Mrs Lena Jakobsen Rasmussen (victim); age=63.0; class=3rd Class
+Sig. Enrico Ratti (victim); age=21.0; class=A la Carte; job=Waiter
+Mr William Henry Rattonbury (victim); age=36.0; class=Victualling; job=Boots
+Mr Frederick Dent Ray (survivor); age=32.0; class=Victualling; job=Saloon Steward
+Mr Raihed Razi (victim); age=30.0; class=3rd Class
+Mr Joseph Read (victim); age=21.0; class=Engine; job=Trimmer
+Mr James George Reed (victim); age=19.0; class=3rd Class; job=Butcher
+Mr Thomas Charles Prowse Reed (victim); age=54.0; class=Victualling; job=Bed Room Steward
+Mr David Reeves (victim); age=36.0; class=2nd Class; job=Carpenter / Joiner
+Mr F. Reeves (victim); age=31.0; class=Engine; job=Fireman
+Mr Robert Thomas Reid (victim); age=30.0; class=Engine; job=Trimmer
+Mr Tido Rekic (victim); age=38.0; class=3rd Class; job=General Labourer
+Mrs Lillian Renouf (survivor); age=30.0; class=2nd Class
+Mr Peter Henry Renouf (victim); age=33.0; class=2nd Class; job=Carpenter / Joiner
+Mr Jonkheer Johan George Reuchlin (victim); age=38.0; class=1st Class
+Mr William Revell (victim); age=31.0; class=Victualling; job=Saloon Steward
+Sra. Encarnacin Reynalds (survivor); age=28.0; class=2nd Class
+Mr Harold J. Reynolds (victim); age=21.0; class=3rd Class; job=Baker
+Mr George Alexander Lucien Rheims (survivor); age=33.0; class=1st Class; job=Businessman
+Sig. Rinaldo Renato Ricaldone (victim); age=22.0; class=A la Carte; job=Assistant Waiter
+Master Albert Rice (victim); age=10.0; class=3rd Class
+Master Arthur Rice (victim); age=4.0; class=3rd Class
+Mr Charles Rice (survivor); age=32.0; class=Engine; job=Fireman
+Master Eric Rice (victim); age=7.0; class=3rd Class
+Master Eugene Francis Rice (victim); age=2.0; class=3rd Class
+Master George Hugh Rice (victim); age=8.0; class=3rd Class
+Mr John Reginald Rice (victim); age=25.0; class=Victualling; job=Clerk
+Mrs Margaret Rice (victim); age=39.0; class=3rd Class; job=Housekeeper
+Mr Percy Rice (victim); age=19.0; class=Victualling; job=Steward
+Mr Emile Phillippe Richard (victim); age=23.0; class=2nd Class
+Mrs Emily Richards (survivor); age=24.0; class=2nd Class
+Mr Joseph James Richards (victim); age=28.0; class=Engine; job=Fireman
+Master Sibley George Richards (survivor); age=0.75; class=2nd Class
+Master William Rowe Richards (survivor); age=3.0; class=2nd Class
+Mr George Albert Rickman (victim); age=36.0; class=Engine; job=Fireman
+Mr Cyril G. Ricks (victim); age=23.0; class=Victualling; job=Storekeeper
+Mr Walter George Ridout (victim); age=29.0; class=Victualling; job=Second Class Saloon Steward
+Miss Lucy Ridsdale (survivor); age=50.0; class=2nd Class
+Mr Sante Righini (victim); age=22.0; class=1st Class; group=Servant; job=Servant
+Sig. Abele Rigozzi (victim); age=22.0; class=A la Carte; job=Assistant Waiter
+Miss Susanna Juhantytr "Sanni" Riihivuori (victim); age=22.0; class=3rd Class
+Mr Gilbert Rimmer (victim); age=27.0; class=Victualling; job=Saloon Steward
+Mr Matti Rintamki (victim); age=35.0; class=3rd Class; job=General Labourer
+Miss Hannah Riordan (survivor); age=18.0; class=3rd Class
+Mrs Emma Risien (victim); age=58.0; class=3rd Class
+Mr Samuel Beard Risien (victim); age=69.0; class=3rd Class; job=Hotelier
+Mr Victor Robbins (victim); age=42.0; class=1st Class; group=Servant; job=Servant
+Mrs Elisabeth Walton Robert (survivor); age=43.0; class=1st Class; job=Of Independent Means
+Mr George Edward Roberton (victim); age=19.0; class=Victualling; job=Assistant Saloon Steward (2nd Class)
+Mr Frederick (Frank John?) Roberts (victim); age=36.0; class=Victualling; job=Third Butcher
+Mr Hugh H. Roberts (victim); age=40.0; class=Victualling; job=Bed Room Steward
+Mrs Mary Kezziah Roberts (survivor); age=41.0; class=Victualling; job=Stewardess
+Mr Robert George Roberts (victim); age=35.0; class=Engine; job=Fireman
+Mr Alexander A. Robins (victim); age=50.0; class=3rd Class; job=Mason
+Mrs Grace Charity Robins (victim); age=47.0; class=3rd Class
+Mrs Annie Robinson (survivor); age=40.0; class=Victualling; job=Stewardess
+Mr James William Robinson (victim); age=30.0; class=Victualling; job=Saloon Steward
+Mr Washington Augustus II Roebling (victim); age=31.0; class=1st Class; job=Of Independent Means
+Mr Edward James William Rogers (victim); age=32.0; class=Victualling; job=Assistant Storekeeper
+Mr Michael Rogers (victim); age=27.0; class=Victualling; job=Saloon Steward
+Mr Reginald Harry Rogers (victim); age=18.0; class=2nd Class
+Mr William John Rogers (victim); age=29.0; class=3rd Class; job=Miner
+Mr Charles Hallace Romaine (survivor); age=45.0; class=1st Class
+Mr Knud Paust Rommetvedt (victim); age=49.0; class=3rd Class; job=Tailor
+Mr Hugh Roscoe Rood (victim); age=38.0; class=1st Class
+Mrs Helena Wilhelmina Rosblom (victim); age=41.0; class=3rd Class
+Miss Salli Helena Rosblom (victim); age=2.0; class=3rd Class
+Mr Viktor Richard Rosblom (victim); age=18.0; class=3rd Class; job=General Labourer
+Miss Edith Louise Rosenbaum (survivor); age=34.0; class=1st Class; job=Journalist
+Mr George Rosenshine (victim); age=46.0; class=1st Class; job=Merchant
+Mr Horace Leopold Ross (survivor); age=36.0; class=Victualling; job=Scullion
+Mr John Hugo Ross (victim); age=36.0; class=1st Class
+Miss Sarah A. Roth (survivor); age=26.0; class=3rd Class; job=Tailor
+ Lucy Nol Martha, Countess of Rothes (survivor); age=33.0; class=1st Class; job=Of Independent Means
+Mrs Elizabeth Jane Anne Rothschild (survivor); age=54.0; class=1st Class
+Mr Martin Rothschild (victim); age=46.0; class=1st Class
+Sig. Angelo Mario Rotta (victim); age=23.0; class=A la Carte; job=Waiter
+Mr Arthur J. Rous (victim); age=26.0; class=Engine; job=Plumber
+Mr Richard Henry Rouse (victim); age=53.0; class=3rd Class; job=Farm Labourer
+Mr Pierre Rousseau (victim); age=49.0; class=A la Carte; job=Chef
+Mr Alfred G. Rowe (victim); age=59.0; class=1st Class; job=Landowner
+Mr Edward M. Rowe (victim); age=31.0; class=Victualling; job=Saloon Steward
+Mr George Thomas Rowe (survivor); age=32.0; class=Deck; job=Quartermaster
+Mr Henry Rudd (victim); age=23.0; class=Engine; job=Assistant Storekeeper
+Miss Emily Rugg (survivor); age=21.0; class=2nd Class
+Mr Samuel James Rule (survivor); age=58.0; class=Victualling; job=Bath Room Steward
+Mr Alfred George John Rush (victim); age=16.0; class=3rd Class; job=Porter
+Mr Boysie Richard Russell (victim); age=17.0; class=Victualling; job=Saloon Steward
+Mr Sidney Frank Rutter (graves) (victim); age=30.0; class=Engine; job=Fireman
+Mr Edward Ryan (survivor); age=24.0; class=3rd Class; job=General Labourer
+Mr Patrick Ryan (victim); age=29.0; class=3rd Class; job=General Labourer
+Mr Tom Ryan (victim); age=27.0; class=Victualling; job=Steward
+Mr Arthur Larned Ryerson (victim); age=61.0; class=1st Class
+Miss Emily Borie Ryerson (survivor); age=18.0; class=1st Class
+Mrs Emily Maria Ryerson (survivor); age=48.0; class=1st Class
+Master John Borie Ryerson (survivor); age=13.0; class=1st Class
+Miss Susan Parker "Suzette" Ryerson (survivor); age=21.0; class=1st Class
+Mr William Edwy Ryerson (survivor); age=32.0; class=Victualling; job=Saloon Steward
+Mr Amin Saad (victim); age=30.0; class=3rd Class; job=Farm Labourer
+Mr Khalil Saad (victim); age=27.0; class=3rd Class; job=Farm Labourer
+Mr Adolphe Saalfeld (survivor); age=47.0; class=1st Class; job=Businessman
+Sig. Giovanni Giuseppe Emilio Saccaggi (victim); age=24.0; class=A la Carte; job=Assistant Waiter
+Mr Matthew Sadlier (victim); age=20.0; class=3rd Class; job=Farm Labourer
+Mr Harry Sadowitz (victim); age=17.0; class=3rd Class; job=Fur Cutter
+Mrs Annie Elizabeth Sage (victim); age=44.0; class=3rd Class
+Master Anthony William Sage (victim); age=12.0; class=3rd Class
+Miss Constance Gladys Sage (victim); age=7.0; class=3rd Class
+Miss Dorothy Sage (victim); age=14.0; class=3rd Class; job=Scholar
+Mr Douglas Bullen Sage (victim); age=18.0; class=3rd Class; job=Baker
+Miss Elizabeth Ada Sage (victim); age=10.0; class=3rd Class
+Mr Frederick Sage (victim); age=16.0; class=3rd Class; job=Cook
+Mr George John Sage (victim); age=19.0; class=3rd Class; job=Barman
+Mr John George Sage (victim); age=44.0; class=3rd Class; job=Tradesman
+Miss Stella Anne Sage (victim); age=20.0; class=3rd Class; job=Dressmaker / Couturire
+Master Thomas Henry Sage (victim); age=4.0; class=3rd Class
+Mr Karl Johan Salander (victim); age=24.0; class=3rd Class; job=General Labourer
+Miss Anna Kristine Salkjelsvik (survivor); age=21.0; class=3rd Class
+Mr Abraham Lincoln Salomon (survivor); age=43.0; class=1st Class; job=Businessman
+Mr Johan Werner Salonen (victim); age=29.0; class=3rd Class; job=General Labourer
+Sig. Govanni Salussolia (victim); age=25.0; class=A la Carte; job=Glass Man
+Mr Elias Samaan (victim); age=17.0; class=3rd Class; job=General Labourer
+Mr Hanna Elias Samaan (victim); age=40.0; class=3rd Class; job=General Labourer
+Mr Youssef ("Joseph") Samaan (victim); age=15.0; class=3rd Class; job=General Labourer
+Mr Owen Wilmore Samuel (victim); age=41.0; class=Victualling; job=Saloon Steward
+Mrs Agnes Charlotta Sandstrm (survivor); age=24.0; class=3rd Class
+Miss Beatrice Irene Sandstrm (survivor); age=1.0; class=3rd Class
+Miss Marguerite Rut Sandstrm (survivor); age=4.0; class=3rd Class
+Mr Charles Sangster (victim); age=32.0; class=Engine; job=Fireman
+Mr Julius ("Jules _") Sap (survivor); age=21.0; class=3rd Class
+Sig. Lazar Sartori (victim); age=24.0; class=A la Carte; job=Assistant Glass Man
+Mr William Henry Saundercock (victim); age=19.0; class=3rd Class; job=Miner
+Mr D. E. Saunders (victim); age=26.0; class=Victualling; job=Saloon Steward
+Mr F. Saunders (victim); age=23.0; class=Engine; job=Fireman
+Mr W. Saunders (victim); age=23.0; class=Engine; job=Fireman
+Mr Walter Edward Saunders (victim); age=23.0; class=Engine; job=Trimmer
+Mr Charles Joseph Savage (survivor); age=23.0; class=Victualling; job=Steward
+Mr Frederick Charles Sawyer (victim); age=33.0; class=3rd Class; job=Gardener
+Mr Robert James Sawyer (victim); age=30.0; class=Deck; job=Window Cleaner
+Mr James Scanlan (victim); age=22.0; class=3rd Class
+Mr Joseph George Scarrott (survivor); age=33.0; class=Deck; job=Able Seaman
+Sig. Candido Scavino (victim); age=42.0; class=A la Carte; job=Carver
+Mrs Emma Schabert (survivor); age=35.0; class=1st Class
+Mr Jean Scheerlinck (survivor); age=29.0; class=3rd Class
+Mr August Schmidt (victim); age=26.0; class=2nd Class
+Mr Archibald Scott (victim); age=40.0; class=Engine; job=Fireman
+Mr Frederick William Scott (survivor); age=28.0; class=Engine; job=Greaser
+Mr John Scott (victim); age=21.0; class=Victualling; job=Boots
+Mr Robert Scovell (victim); age=42.0; class=Victualling; job=Saloon Steward
+Mr Todor Sdycoff (victim); age=42.0; class=3rd Class
+Mr Charles Frederick Waddington Sedgwick (victim); age=25.0; class=2nd Class
+Mr Sidney Francis Sedunary (victim); age=25.0; class=Victualling; job=Steward
+Mr Albert Charles Edward Self (survivor); age=24.0; class=Engine; job=Fireman
+Mr Alfred Henry Self (victim); age=39.0; class=Engine; job=Greaser
+Master Betros Seman (victim); age=10.0; class=3rd Class
+Mr Harry Senior (survivor); age=31.0; class=Engine; job=Fireman
+Miss Auguste Serreplan (survivor); age=30.0; class=1st Class; group=Servant; job=Personal Maid
+Sig. Giacomo Sesia (victim); age=24.0; class=A la Carte; job=Waiter
+Mr Frederic Kimber Seward (survivor); age=34.0; class=1st Class; job=Lawyer
+Mr Wilfred Deable Seward (survivor); age=25.0; class=Victualling; job=Chief Pantry Steward
+Mlle Emma Sgesser (survivor); age=24.0; class=1st Class; group=Servant; job=Personal Maid
+Mr Percival Sharp (victim); age=27.0; class=2nd Class
+Mr Patrick Shaughnessy (victim); age=24.0; class=3rd Class; job=Farm Labourer
+Mr Henry Shaw (victim); age=39.0; class=Victualling; job=Kitchen Porter
+Mr John Shea (victim); age=39.0; class=Victualling; job=Saloon Steward
+Mr Thomas Shea (victim); age=32.0; class=Engine; job=Fireman
+Mr Frederick Sheath (survivor); age=20.0; class=Engine; job=Trimmer
+Mr Daher Shedid (victim); age=19.0; class=3rd Class
+Mr Frederick William Blainey Shellard (victim); age=55.0; class=3rd Class; job=Painter & Decorator
+Mrs Imanita Parrish Shelley (survivor); age=25.0; class=2nd Class
+Mr Jonathan Shepherd (victim); age=32.0; class=Engine; job=Junior Assistant 2nd. Engineer
+Mr Alfred Charles Shiers (survivor); age=25.0; class=Engine; job=Fireman
+Mr Charles Frederick Shillabeer (victim); age=19.0; class=Engine; job=Trimmer
+Miss Ellen Natalia Shine (survivor); age=20.0; class=3rd Class
+Mr Peter Andreas Lauritz Andersen Sholt (victim); age=19.0; class=3rd Class; job=Carpenter / Joiner
+Mr Charles Joseph Shorney (victim); age=22.0; class=3rd Class; job=Valet
+Miss Elizabeth Weed Shutes (survivor); age=40.0; class=1st Class; group=Servant; job=Governess
+Mr Sidney Conrad Siebert (victim); age=29.0; class=Victualling; job=Bed Room Steward
+Mr Spencer Victor Silverthorne (survivor); age=35.0; class=1st Class
+Mrs Alice Silvey (survivor); age=39.0; class=1st Class
+Mr William Baird Silvey (victim); age=50.0; class=1st Class
+Miss Lyyli Karoliina Silvn (survivor); age=17.0; class=2nd Class
+Mr Alfred (Andrew) Simmons (survivor); age=31.0; class=Victualling; job=Scullion
+Mr Frederick Charles Simmons (victim); age=24.0; class=Victualling; job=Saloon Steward
+Mr John Simmons (victim); age=39.0; class=3rd Class; job=General Labourer
+Mr W. Simmons (victim); age=32.0; class=Victualling; job=Passage Cook
+Mr Colonel (Oberst) Alfons Simonius-blumer (survivor); age=56.0; class=1st Class; job=Banker
+Dr John Edward Simpson (victim); age=37.0; class=Deck; job=Assistant Surgeon
+Miss Maude Sincock (survivor); age=20.0; class=2nd Class
+Miss Anna Sinkkonen (survivor); age=30.0; class=2nd Class
+Mr Orsen Sirayanian (victim); age=22.0; class=3rd Class; job=Farmer
+Mr Maurice Sirota (victim); age=20.0; class=3rd Class; job=Tailor
+Mr Husein Sivic (victim); age=40.0; class=3rd Class; job=General Labourer
+Mr William Sivier (victim); age=23.0; class=Victualling; job=Steward
+Mr Antti Wilhelm Sivola (victim); age=21.0; class=3rd Class; job=General Labourer
+Miss Anna Sofia Sjblom (survivor); age=18.0; class=3rd Class
+Mr Ernst Adolf Sjstedt (victim); age=59.0; class=2nd Class
+Mr William Skeates (victim); age=26.0; class=Engine; job=Trimmer
+Mr Edward Skinner (victim); age=33.0; class=Victualling; job=Saloon Steward
+Mrs Anna Bernhardina Skoog (victim); age=43.0; class=3rd Class
+Master Harald Skoog (victim); age=5.0; class=3rd Class
+Master Karl Thorsten Skoog (victim); age=11.0; class=3rd Class
+Miss Mabel Skoog (victim); age=9.0; class=3rd Class
+Miss Margit Elizabeth Skoog (victim); age=2.0; class=3rd Class
+Mr Wilhelm ("William Johansson") Skoog (victim); age=40.0; class=3rd Class; job=General Labourer
+Mr Petco Slabenoff (victim); age=42.0; class=3rd Class; job=General Labourer
+Miss Hilda Mary Slayter (survivor); age=30.0; class=2nd Class
+Mr Richard James Slemen (victim); age=35.0; class=2nd Class
+Mr Harry John Slight (victim); age=35.0; class=Victualling; job=Steward
+Mr William H. Slight (victim); age=37.0; class=Victualling; job=Larder Cook
+Miss Mary Sloan (survivor); age=28.0; class=Victualling; job=Stewardess
+Mr Peter Sloan (victim); age=31.0; class=Engine; job=Chief Electrician
+Mrs Maud Slocombe (survivor); age=30.0; class=Victualling; job=Turkish Bath Stewardess
+Mr Selman Francis Slocovski (victim); age=20.0; class=3rd Class; job=Merchant
+Mr William Thompson Sloper (survivor); age=28.0; class=1st Class; job=Stockbroker
+Mr William Small (victim); age=40.0; class=Engine; job=Leading Fireman
+Mr John Montgomery Smart (victim); age=56.0; class=1st Class
+Mr Mile Smiljanic (victim); age=37.0; class=3rd Class; job=Farm Labourer
+Mr John Smillie (victim); age=29.0; class=Victualling; job=Saloon Steward
+Mr Charles Smith (victim); age=38.0; class=Victualling; job=Kitchen Porter
+Mr Charles Edwin Smith (victim); age=38.0; class=Victualling; job=Bed Room Steward
+Captain Edward John Smith (victim); age=62.0; class=Deck; job=Master
+Mr Emest George Smith (victim); age=26.0; class=Engine; job=Trimmer
+Mr F. Smith (victim); age=20.0; class=Victualling; job=Assistant Pantryman Steward
+Mr J. Smith (victim); age=24.0; class=Victualling; job=Baker
+Mr James Clinch Smith (victim); age=56.0; class=1st Class; job=Military
+Mr James M. Smith (victim); age=35.0; class=Engine; job=Junior 4th. Engineer
+Mr John Richard Jago Smith (victim); age=35.0; class=Victualling; group=Postal Clerk; job=Postal Clerk
+Miss Katherine E. Smith (survivor); age=42.0; class=Victualling; job=Stewardess
+Mr Lucian Philip Smith (victim); age=24.0; class=1st Class
+Miss Marion Elsie Smith (survivor); age=39.0; class=2nd Class
+Mrs Mary Eloise Smith (survivor); age=18.0; class=1st Class
+Mr Richard William Smith (victim); class=1st Class
+Mr Robert G. Smith (victim); age=30.0; class=Victualling; job=Saloon Steward
+Mr William Smith (victim); age=26.0; class=Deck; job=Seaman
+Mr Harry John Smither (victim); age=22.0; class=Engine; job=Fireman
+Miss Julia Smyth (survivor); age=17.0; class=3rd Class
+Mr Thomas Smyth (victim); age=26.0; class=3rd Class
+Mrs Lucy Violet Snape (victim); age=22.0; class=Victualling; job=Stewardess
+Mr George Snellgrove (victim); age=40.0; class=Engine; job=Fireman
+Mr W. Snooks (victim); age=26.0; class=Engine; job=Trimmer
+Mr Eustace Philip Snow (survivor); age=21.0; class=Engine; job=Trimmer
+Mr John Pillsbury Snyder (survivor); age=24.0; class=1st Class
+Mrs Nelle Snyder (survivor); age=23.0; class=1st Class
+Mr Samuel James Hayden Sobey (victim); age=25.0; class=2nd Class; job=Quarryman
+Mr Francis William Somerton (victim); age=31.0; class=3rd Class
+Mr H. Sparkman (survivor); age=30.0; class=Engine; job=Fireman
+Mr Woolf Spector (victim); age=23.0; class=3rd Class; job=General Labourer
+Mr Frederic Oakley Spedden (survivor); age=45.0; class=1st Class
+Mrs Margaretta Corning Spedden (survivor); age=39.0; class=1st Class
+Master Robert Douglas Spedden (survivor); age=6.0; class=1st Class
+Mrs Marie Eugenie Spencer (survivor); age=45.0; class=1st Class
+Mr William Augustus Spencer (victim); age=57.0; class=1st Class
+Mr Henry John Spinner (victim); age=32.0; class=3rd Class; job=Grocer
+Mr John Henry Stagg (victim); age=34.0; class=Victualling; job=Saloon Steward
+Mr Alfred Augustus Stanbrook (victim); age=30.0; class=Engine; job=Fireman
+Mr Ivan Staneff (victim); age=23.0; class=3rd Class; job=General Labourer
+Mr Ivan Stankovic (victim); age=33.0; class=3rd Class; job=General Labourer
+Miss Amy Zillah Elsie Stanley (survivor); age=24.0; class=3rd Class; job=Servant
+Mr Edward Roland Stanley (victim); age=21.0; class=3rd Class; job=Porter
+Mr Samuel Ward Stanton (victim); age=42.0; class=2nd Class
+Miss Sarah Agnes Stap (survivor); age=47.0; class=Victualling; job=Stewardess
+Mr William Thomas Stead (victim); age=62.0; class=1st Class; job=Journalist
+Mr Sydney Frederick Stebbings (victim); age=34.0; class=Victualling; job=Chief Boots Steward
+Mr Robert Edward Steel (victim); class=Engine; job=Trimmer
+Mrs Annie May Stengel (survivor); age=44.0; class=1st Class
+Mr Charles Emil Henry Stengel (survivor); age=54.0; class=1st Class; job=Businessman
+Mrs Martha Stephenson (survivor); age=52.0; class=1st Class
+Mr Albert A. Stewart (victim); age=54.0; class=1st Class; job=Businessman
+Mr John Stewart (survivor); age=27.0; class=Victualling; job=Verandah Steward
+Dr Max Sthelin-maeglin (survivor); age=32.0; class=1st Class; job=Lawyer
+Mr Simon Sivertsen Sther (victim); age=43.0; class=3rd Class; job=Miner
+Mr H. Stocker (victim); age=20.0; class=Engine; job=Trimmer
+Mr Philip Joseph Stokes (victim); age=25.0; class=2nd Class; job=Bricklayer
+Mr Edmond J. Stone (victim); age=33.0; class=Victualling; job=Bed Room Steward
+Mr Edward Thomas Stone (victim); age=30.0; class=Victualling; job=Bed Room Steward
+Mrs Martha Evelyn Stone (survivor); age=62.0; class=1st Class
+Mr Thomas Storey (victim); age=51.0; class=3rd Class; job=Seaman
+Mr Ilia Stoytcheff (victim); age=19.0; class=3rd Class; job=General Labourer
+Miss Ida Sofia Strandberg (victim); age=22.0; class=3rd Class
+Mr Juho Niilosson Strandn (survivor); age=31.0; class=3rd Class
+Mr Isidor Straus (victim); age=67.0; class=1st Class; job=Businessman
+Mrs Rosalie Ida Straus (victim); age=63.0; class=1st Class
+Mr Thomas Albert Street (survivor); age=25.0; class=Engine; job=Fireman
+Mr Ivan Strilic (victim); age=27.0; class=3rd Class; job=Farmer
+Mrs Elna Matilda Strm (victim); age=29.0; class=3rd Class
+Miss Telma Matilda Strm (victim); age=2.0; class=3rd Class
+Mr Edward Alfred Orlando Stroud (victim); age=19.0; class=Victualling; job=Saloon Steward
+Mr Harry John Stroud (victim); age=35.0; class=Victualling; job=Saloon Steward
+Mr John H. Strugnell (victim); age=34.0; class=Victualling; job=Saloon Steward
+Mr Harry Robert Stubbings (victim); age=31.0; class=Victualling; job=2nd. Class Cook
+Mr James Henry Stubbs (victim); age=28.0; class=Engine; job=Fireman
+Mr S. Sullivan (victim); age=25.0; class=Engine; job=Fireman
+Mr Victor Francis Sunderland (survivor); age=20.0; class=3rd Class; job=Farmer
+Mr Johan Julian Sundman (survivor); age=44.0; class=3rd Class
+Mr Henry Jr Sutehall (victim); age=25.0; class=3rd Class; job=Coach Trimmer
+Mr Frederick Sutton (victim); age=61.0; class=1st Class; job=Property Developer / Real Estate
+Mr Johan Svensson (victim); age=74.0; class=3rd Class
+Mr Johan Cervin Svensson (survivor); age=14.0; class=3rd Class
+Mr Olof Svensson (victim); age=24.0; class=3rd Class; job=Farmer
+Mr W. Swan (victim); age=46.0; class=Victualling; job=Bed Room Steward
+Mr George Swane (victim); age=19.0; class=2nd Class; group=Servant; job=Chauffeur
+Mr George Frederick Sweet (victim); age=14.0; class=2nd Class; job=Farm Labourer
+Mrs Margaret Welles Swift (survivor); age=46.0; class=1st Class
+Mr John Crane Symonds (victim); age=44.0; class=Victualling; job=Saloon Steward
+Mr George Thomas Macdonald Symons (survivor); age=24.0; class=Deck; job=Lookout
+Mr George Frederick Charles Talbot (victim); age=20.0; class=Victualling; job=Steward
+Mr Frederick Tamlyn (victim); age=23.0; class=Deck; job=Mess Steward
+Mr Emil Taussig (victim); age=52.0; class=1st Class
+Miss Ruth Taussig (survivor); age=18.0; class=1st Class
+Mrs Tillie Taussig (survivor); age=39.0; class=1st Class
+Mr Bernard Cuthbert Taylor (victim); age=22.0; class=Victualling; job=Steward
+Mr C. Taylor (victim); age=35.0; class=Deck; job=Able Seaman
+Mr Elmer Zebley Taylor (survivor); age=48.0; class=1st Class; job=Manufacturer
+Mr George Taylor (survivor); age=24.0; class=Engine; job=Fireman
+Mr George Frederick Taylor (victim); age=32.0; class=Victualling; job=Stenographer
+Mr J. Taylor (victim); age=42.0; class=Engine; job=Fireman
+Mr John Taylor (victim); age=50.0; class=Engine; job=Fireman
+Mrs Juliet Cummins Taylor (survivor); age=49.0; class=1st Class
+Mr Leonard Taylor (victim); age=23.0; class=Victualling; job=Turkish Bath Attendant
+Mr Percy Cornelius Taylor (victim); age=32.0; class=2nd Class; group=Musician; job=Musician
+Mr William Henry Taylor (survivor); age=26.0; class=Engine; job=Fireman
+Mr William John Taylor (victim); age=30.0; class=Victualling; job=Saloon Steward
+Mr Gunnar Isidor Tenglin (survivor); age=25.0; class=3rd Class
+Mr Bertram Terrell (victim); age=20.0; class=Deck; job=Seaman
+Mr Frank Terrell (survivor); age=27.0; class=Victualling; job=Assistant Saloon Steward
+Sig. Ercole Testoni (victim); age=23.0; class=A la Carte; job=Assistant Glass Man
+Mr Thomas Moore Teuton (victim); age=32.0; class=Victualling; job=Saloon Steward
+Mr Montague Donald Thaler (victim); age=17.0; class=Victualling; job=Steward
+Mr John Borland Thayer (victim); age=49.0; class=1st Class; job=Businessman
+Mr John Borland jr Thayer (survivor); age=17.0; class=1st Class; job=Scholar
+Mrs Marian Longstreth Thayer (survivor); age=39.0; class=1st Class
+Mr Alfred Theissinger (survivor); age=46.0; class=Victualling; job=Bed Room Steward
+Mr Thomas Leonard Theobald (victim); age=34.0; class=3rd Class; job=Groom
+Mr Albert Charles Thomas (survivor); age=23.0; class=Victualling; job=Saloon Steward
+Mr Benjamin James Thomas (survivor); age=30.0; class=Victualling; job=Saloon Steward
+Mr Charles R'ad. Thomas (victim); age=31.0; class=3rd Class; job=Dealer
+Mr Joseph Thomas (victim); age=25.0; class=Engine; job=Fireman
+Mrs Thamine "Thelma" Thomas (survivor); age=16.0; class=3rd Class
+Master Assad Alexander Thomas/tannous (survivor); age=0.416666666667; class=3rd Class
+Mr John Thomas/tannous (victim); age=34.0; class=3rd Class; job=Dealer
+Mr Tannous Thomas/tannous (victim); age=16.0; class=3rd Class; job=Scholar
+Mr Alexander Morrison Thompson (victim); age=36.0; class=3rd Class; job=Mason
+Mr Herbert Henry Thompson (victim); age=25.0; class=Victualling; job=2nd (Assistant) Storekeeper
+Mr John William Thompson (survivor); age=35.0; class=Engine; job=Fireman
+Mr William Thorley (victim); age=39.0; class=Victualling; job=Cook
+Mr Harry Thorn (victim); age=25.0; class=Victualling; job=Assistant Ship's Cook
+Miss Gertrude Maybelle Thorne (survivor); age=38.0; class=1st Class
+Mrs Florence Kate Thorneycroft (survivor); age=32.0; class=3rd Class
+Mr Percival Thorneycroft (victim); age=36.0; class=3rd Class; job=General Labourer
+Mr Thomas Threlfall (survivor); age=44.0; class=Engine; job=Leading Fireman
+Mr George Terrill Thresher (survivor); age=25.0; class=Engine; job=Fireman
+Sig. Carlo/Karl Tietz (victim); age=27.0; class=A la Carte; job=Kitchen Porter
+Mr Juho Tikkanen (victim); age=32.0; class=3rd Class; job=General Labourer
+Mr Arthur Tizard (victim); age=31.0; class=Engine; job=Fireman
+Mr Roger Tobin (victim); age=20.0; class=3rd Class; job=Farmer
+Mr Lalio Todoroff (victim); age=23.0; class=3rd Class; job=General Labourer
+Mr Ernest Portage Tomlin (victim); age=22.0; class=3rd Class; job=Scholar
+Mr Fred Toms (survivor); age=29.0; class=Victualling; job=Saloon Steward
+Miss Ellen Mary Toomey (survivor); age=48.0; class=2nd Class; job=Servant
+Mr Thomas Frederick Topp (victim); age=28.0; class=Victualling; job=Butcher
+Mr Assad Torfa (victim); age=20.0; class=3rd Class; job=Farm Labourer
+Mr James Adamson Toshack (victim); age=30.0; class=Victualling; job=Saloon Steward
+Master Georges Youssef ("George Thomas") Touma (survivor); age=8.0; class=3rd Class
+Mrs Hanna Youssef Touma (survivor); age=27.0; class=3rd Class
+Miss Maria Youssef ("Mary Thomas") Touma (survivor); age=9.0; class=3rd Class
+Mr James Tozer (victim); age=30.0; class=Engine; job=Greaser
+Mr Ernst Wilhelm Trber (victim); age=41.0; class=3rd Class; job=Florist
+Mr Robert Triggs (survivor); age=40.0; class=Engine; job=Fireman
+Mr William Henry Trnquist (survivor); age=25.0; class=3rd Class; job=Seaman
+Mr Moses Aaron Troupiansky (victim); age=23.0; class=2nd Class; job=Shop Assistant
+Mrs Jessie L. Trout (survivor); age=26.0; class=2nd Class
+Miss Edwina Celia Troutt (survivor); age=27.0; class=2nd Class
+Mr Gilbert Milligan jr Tucker (survivor); age=31.0; class=1st Class
+Mr Stjepan Turcin (victim); age=36.0; class=3rd Class; job=General Labourer
+Miss Anna Sofia Turja (survivor); age=18.0; class=3rd Class
+Mrs Hedwig Turkula (survivor); age=63.0; class=3rd Class
+Mr Richard Turley (victim); age=35.0; class=Engine; job=Fireman
+Mr L. Turner (victim); age=28.0; class=Victualling; job=Saloon Steward
+Mrs Dorothy Ann Turpin (victim); age=26.0; class=2nd Class; job=Housewife
+Mr William John Turpin (victim); age=29.0; class=2nd Class; job=Carpenter / Joiner
+Mr Charles Turvey (victim); age=16.0; class=A la Carte; job=Page Boy
+Sig. Roberto Urbini (victim); age=22.0; class=A la Carte; job=Waiter
+Don. Manuel Ramirez Uruchurtu (victim); age=39.0; class=1st Class; job=Lawyer
+Sig. Ettore Luigi Valvassori (victim); age=35.0; class=A la Carte; job=Waiter
+Mr Austin Blyler Van billiard (victim); age=35.0; class=3rd Class
+Master James William Van billiard (victim); age=10.0; class=3rd Class
+Master Walter John Van billiard (victim); age=9.0; class=3rd Class
+Mr Johannes Josef Van de velde (victim); age=35.0; class=3rd Class; job=Farmer
+Mr Leo Peter Van den steen (victim); age=28.0; class=3rd Class; job=Farmer
+Mr Wessel Adrianus Van der brugge (victim); age=42.0; class=Engine; job=Fireman
+Mr Wyckoff Van der hoef (victim); age=61.0; class=1st Class; job=Businessman
+Miss Catharina Van impe (victim); age=10.0; class=3rd Class
+Mr Jean Baptiste Van impe (victim); age=36.0; class=3rd Class; job=Farmer
+Mrs Rosalie Paula Van impe (victim); age=30.0; class=3rd Class
+Mr Philemon Van melckebeke (victim); age=23.0; class=3rd Class; job=Farmer
+Mr Victor Vandercruyssen (victim); age=46.0; class=3rd Class; job=Farmer
+Miss Augusta Maria Vanderplancke (victim); age=18.0; class=3rd Class; job=Servant
+Mrs Emelie Maria Vanderplancke (victim); age=31.0; class=3rd Class
+Mr Julius Vanderplancke (victim); age=31.0; class=3rd Class; job=Farmer
+Mr Leo Edmondus Vanderplancke (victim); age=15.0; class=3rd Class; job=Farm Labourer
+Mr Nestor Cyriel Vandewalle (victim); age=28.0; class=3rd Class; job=Merchant
+Mr David Vartanian (survivor); age=22.0; class=3rd Class
+Mr Arthur Veal (victim); age=36.0; class=Engine; job=Greaser
+Mr James Veal (victim); age=40.0; class=2nd Class
+Mr Thomas Henry Edom Veal (victim); age=38.0; class=Victualling; job=Saloon Steward
+Mr H. Vear (victim); age=32.0; class=Engine; job=Fireman
+Mr William Vear (victim); age=33.0; class=Engine; job=Fireman
+Mr Olof Edvin Vendel (victim); age=20.0; class=3rd Class; job=General Labourer
+Miss Hulda Amanda Adolfina Vestrm (victim); age=14.0; class=3rd Class; job=Servant
+Sig. Alphonse Jean Eugene Vicat (victim); age=21.0; class=A la Carte; job=Cook
+Mr Philip Francis Vigott (survivor); age=32.0; class=Deck; job=Able Seaman
+Mr Pierre Lon Gabriel Villvarlange (victim); age=19.0; class=A la Carte; job=Assistant Soup Cook
+Mr H. Vine (victim); age=18.0; class=A la Carte; job=Assistant Restaurant Controller
+Sig. Roberto Vioni (victim); age=31.0; class=A la Carte; job=Waiter
+Sig. Johannes Voegelin-dubach (victim); age=35.0; class=A la Carte; job=Waiter
+Mr Janko Vovk (victim); age=21.0; class=3rd Class; job=General Labourer
+Mr Achille Waelens (victim); age=22.0; class=3rd Class; job=Farm Labourer
+Mr Percy Wake (victim); age=37.0; class=Victualling; job=Baker
+Mr William Anderson Walker (victim); age=48.0; class=1st Class
+Miss Ellen 'Nellie' Wallcroft (survivor); age=36.0; class=2nd Class; job=Cook
+Mrs Catherine Jane Wallis (victim); age=35.0; class=Victualling; job=Matron
+Mr James Walpole (victim); age=48.0; class=Victualling; job=Chief Pantryman Steward
+Miss Catherine Walsh (victim); age=32.0; class=Victualling; job=Stewardess
+Miss Annie Moore Ward (survivor); age=35.0; class=1st Class; group=Servant; job=Personal Maid
+Mr Arthur Ward (victim); age=24.0; class=Engine; job=Junior Assistant 4th. Engineer
+Mr Edward Ward (victim); age=34.0; class=Victualling; job=Bed Room Steward
+Mr J. Ward (victim); age=31.0; class=Engine; job=Leading Fireman
+Mr Percy Thomas Ward (victim); age=38.0; class=Victualling; job=Bed Room Steward
+Mr William Ward (survivor); age=36.0; class=Victualling; job=Saloon Steward
+Mr Albert Wardner (victim); age=39.0; class=Engine; job=Fireman
+Mrs Florence Louise Ware (survivor); age=31.0; class=2nd Class
+Mr Frederick Ware (victim); age=34.0; class=3rd Class; job=Motor Fitter
+Mr John James Ware (victim); age=45.0; class=2nd Class
+Mr William Jeffery Ware (victim); age=23.0; class=2nd Class
+Mr Robert Arthur Wareham (victim); age=36.0; class=Victualling; job=Bed Room Steward
+Mrs Anna Sophia Warren (survivor); age=60.0; class=1st Class
+Mr Charles William Warren (victim); age=30.0; class=3rd Class; job=Bricklayer
+Mr Frank Manley Warren (victim); age=63.0; class=1st Class
+Mr Tom Warwick (victim); age=35.0; class=Victualling; job=Saloon Steward
+Mr Edward Lewis Wateridge (victim); age=25.0; class=Engine; job=Fireman
+Mr Ennis Hastings Watson (victim); age=15.0; class=2nd Class; group=H&W Guarantee Group; job=Apprentice Electrician
+Mr W. Watson (victim); age=27.0; class=Engine; job=Fireman
+Mr William Albert Watson (victim); age=14.0; class=Victualling; job=Bell Boy
+Mrs Elizabeth "Bessie" Inglis Watt (survivor); age=40.0; class=2nd Class
+Miss Robertha Josephine Watt (survivor); age=12.0; class=2nd Class
+Mr  Watts (victim); age=36.0; class=Engine; job=Trimmer
+Mr Yousif Ahmed Wazli (victim); age=25.0; class=3rd Class; job=Farmer
+Mr Thomas Herbert Weatherstone (victim); age=24.0; class=Victualling; job=Saloon Steward
+Mr Brooke Holding Webb (victim); age=50.0; class=Victualling; job=Smoke Room Steward
+Mr S. Webb (victim); age=28.0; class=Engine; job=Trimmer
+Mr Francis Albert Webber (victim); age=31.0; class=Engine; job=Leading Fireman
+Mr James Webber (victim); age=66.0; class=3rd Class; job=Miner
+Miss Susan Webber (survivor); age=37.0; class=2nd Class
+Mr August H. Weikman (survivor); age=51.0; class=Victualling; job=Barber
+Colonel John Weir (victim); age=59.0; class=1st Class; job=Military
+Mr Leopold Weisz (victim); age=28.0; class=2nd Class
+Mrs Mathilde Franoise Weisz (survivor); age=37.0; class=2nd Class
+Mr William Harold Welch (victim); age=23.0; class=Victualling; job=Cook
+Mr William Clifford Weller (survivor); age=30.0; class=Deck; job=Able Seaman
+Mrs "Addie" Dart Wells (survivor); age=29.0; class=2nd Class
+Miss Joan Wells (survivor); age=4.0; class=2nd Class
+Master Ralph Lester Wells (survivor); age=2.0; class=2nd Class
+Mr August Wennerstrm (survivor); age=27.0; class=3rd Class
+Mrs Ada Mary West (survivor); age=33.0; class=2nd Class
+Miss Barbara Joyce West (survivor); age=0.833333333333; class=2nd Class
+Miss Constance Mirium West (survivor); age=4.0; class=2nd Class
+Mr Edwy Arthur West (victim); age=36.0; class=2nd Class
+Mr Edward H. Wheadon (victim); age=66.0; class=2nd Class; job=Farmer
+Mr Joseph Thomas Wheat (survivor); age=30.0; class=Victualling; job=Assistant Second Steward
+Mr Edwin Charles Wheeler (victim); age=24.0; class=2nd Class; group=Servant; job=Servant
+Mr Edneser (Ernest) Edward Wheelton (survivor); age=29.0; class=Victualling; job=Saloon Steward
+Mr Albert White (victim); age=21.0; class=Engine; job=Trimmer
+Mr Alfred White (survivor); age=32.0; class=Engine; job=Greaser
+Mr Arthur White (victim); age=37.0; class=Victualling; job=Barber
+Mrs Ella White (survivor); age=55.0; class=1st Class
+Mr Frank Leonard White (victim); age=28.0; class=Engine; job=Trimmer
+Mr J. W. White (victim); age=27.0; class=Victualling; job=Glory Hole Steward
+Mr Leonard Lisle Oliver White (victim); age=31.0; class=Victualling; job=Saloon Steward
+Mr Percival Wayland White (victim); age=54.0; class=1st Class; job=Manufacturer
+Mr Richard Frasar White (victim); age=21.0; class=1st Class
+Mr William George White (survivor); age=23.0; class=Engine; job=Trimmer
+Mr Thomas Arthur Whiteley (survivor); age=18.0; class=Victualling; job=Saloon Steward
+Mr Alfred Henry Whitford (victim); age=39.0; class=Victualling; job=Saloon Steward
+Mr George Dennick Wick (victim); age=57.0; class=1st Class
+Mrs Mary Wick (survivor); age=45.0; class=1st Class
+Miss Mary Natalie Wick (survivor); age=31.0; class=1st Class
+Mr Carl / Charles Peter Widegren (victim); age=51.0; class=3rd Class; job=General Labourer
+Mrs Eleanor Widener (survivor); age=50.0; class=1st Class
+Mr George Dunton Widener (victim); age=50.0; class=1st Class; job=Banker
+Mr Harry Elkins Widener (victim); age=27.0; class=1st Class; job=Bibliophile
+Mr James George Widgery (survivor); age=37.0; class=Victualling; job=Bath Steward
+Mr Jakob Alfred Wiklund (victim); age=18.0; class=3rd Class; job=General Labourer
+Mr Karl Johan Wiklund (victim); age=21.0; class=3rd Class; job=General Labourer
+Mr Henry Tingle Wilde (victim); age=39.0; class=Deck; job=Chief Officer
+Mr Charles Wilhelms (survivor); age=32.0; class=2nd Class
+Mrs Ellen Wilkes (survivor); age=47.0; class=3rd Class
+Mrs Elizabeth Anne Wilkinson (survivor); age=35.0; class=2nd Class
+Miss Constance Willard (survivor); age=21.0; class=1st Class
+Mr Aaron Willer (victim); age=37.0; class=3rd Class
+Mr Edward Willey (victim); age=18.0; class=3rd Class; job=Farm Labourer
+Mr Arthur J. Williams (victim); age=38.0; class=Victualling; job=Storekeeper
+Mr Charles Duane Williams (victim); age=51.0; class=1st Class; job=Lawyer
+Mr Charles Eugene Williams (survivor); age=23.0; class=2nd Class; job=Sportsman
+Mr Howard Hugh "Harry" Williams (victim); age=28.0; class=3rd Class; job=Carman
+Mr Leslie Williams (victim); age=28.0; class=3rd Class; job=Pugilist
+Mr Richard Norris II Williams (survivor); age=21.0; class=1st Class; job=Sportsman
+Mr Samuel S. Williams (victim); age=26.0; class=Engine; job=Fireman
+Mr Walter John Williams (survivor); age=28.0; class=Victualling; job=Assistant Saloon Steward
+Mr James Bertram Williamson (victim); age=35.0; class=Victualling; group=Postal Clerk; job=Postal Clerk
+Mr W. Willis (victim); age=46.0; class=Victualling; job=Steward
+Mr William Aubrey Willsher (victim); age=33.0; class=Victualling; job=Butcher
+Mr Bertie Wilson (victim); age=28.0; class=Engine; job=Senior Assistant 2nd. Engineer
+Miss Helen Alice Wilson (survivor); age=31.0; class=1st Class; group=Servant; job=Personal Maid
+Mr William Wilton (victim); age=45.0; class=Engine; job=Trimmer
+Mr Alfred Edgar Windebank (survivor); age=38.0; class=Victualling; job=Cook
+Mr Einar Windelv (victim); age=21.0; class=3rd Class; job=Dairy Worker
+Mr Rowland Winser (victim); age=33.0; class=Victualling; job=Steward
+Mr Albert Wirz (victim); age=27.0; class=3rd Class; job=Farmer
+Mr Phillippe Wiseman (victim); age=54.0; class=3rd Class; job=Merchant
+Mr Albert Ernest Witcher (victim); age=39.0; class=Engine; job=Fireman
+Mr Henry Dennis Witt (victim); age=37.0; class=Engine; job=Fireman
+Mr James William Cheetham Witter (survivor); age=31.0; class=Victualling; job=Smoke Room Steward
+Mr Camilius Aloysius Wittevrongel (victim); age=36.0; class=3rd Class; job=Farmer
+Mr Henry Wittman (victim); age=34.0; class=Victualling; job=Bed Room Steward
+Mr Henry Wood (victim); age=30.0; class=Engine; job=Trimmer
+Mr James Thomas Wood (victim); age=40.0; class=Victualling; job=Assistant Saloon Steward
+Mr Frederick Woodford (victim); age=40.0; class=Engine; job=Greaser
+Mr John Wesley Woodward (victim); age=32.0; class=2nd Class; group=Musician; job=Musician
+Mr Oscar Scott Woody (victim); age=44.0; class=Victualling; group=Postal Clerk; job=Postal Clerk
+Mr Hugh Woolner (survivor); age=45.0; class=1st Class; job=Businessman
+Mr Henry Frederick Charles Wormald (victim); age=44.0; class=Victualling; job=Saloon Steward
+Mr William Henry Worthman (victim); age=37.0; class=Engine; job=Fireman
+Mr Frederick Bernard Wrapson (victim); age=18.0; class=Victualling; job=Assistant Pantryman Steward
+Mr Frederick Wright (victim); age=24.0; class=Victualling; job=Sports Instructor
+Mr George Wright (victim); age=62.0; class=1st Class; job=Businessman
+Miss Marion Wright (survivor); age=26.0; class=2nd Class
+Mr William Wright (survivor); age=40.0; class=Victualling; job=Glory Hole Steward
+Mr James Robert Wyeth (victim); age=26.0; class=Engine; job=Fireman
+Mr Walter Wynn (survivor); age=41.0; class=Deck; job=Quartermaster
+Mr Antoni Yasbeck (victim); age=27.0; class=3rd Class; job=General Labourer
+Mrs Selini "Celiney" Yazbeck (survivor); age=15.0; class=3rd Class
+Mr Harry Yearsley (survivor); age=40.0; class=Victualling; job=First class saloon steward
+Mr Francis James Young (victim); age=30.0; class=Engine; job=Fireman
+Miss Marie Grice Young (survivor); age=36.0; class=1st Class
+Mr Gerios Yousseff (abi saab) (victim); age=45.0; class=3rd Class; job=Shoemaker
+Mr Gerios Youssiff (sam'aan) (victim); age=28.0; class=3rd Class
+Miss Henriette Yvois (victim); age=24.0; class=2nd Class
+Mr Mapriededer Zakarian (victim); age=22.0; class=3rd Class
+Mr Ortin Zakarian (victim); age=27.0; class=3rd Class; job=General Labourer
+Sig. Minio Zanetti (victim); age=20.0; class=A la Carte; job=Assistant Waiter
+Sig. L. Zarracchi (victim); age=26.0; class=A la Carte; job=Wine Butler
+Mr Leo Zimmermann (victim); age=29.0; class=3rd Class; job=Farmer
